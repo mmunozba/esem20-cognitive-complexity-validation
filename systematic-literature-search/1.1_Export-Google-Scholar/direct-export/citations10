@@ -1,0 +1,162 @@
+@phdthesis{arkanoff2014improving,
+  title={Improving reading for secondary students through a focused program emphasizing phonics, fluency, vocabulary and comprehension: An action research study},
+  author={Arkanoff, Richard A},
+  year={2014},
+  school={Capella University}
+}
+
+@inproceedings{lohmeier2014activation,
+  title={Activation and the Comprehension of Indirect Anaphors in Source Code.},
+  author={Lohmeier, Sebastian},
+  booktitle={PPIG},
+  pages={19},
+  year={2014}
+}
+
+@article{vaithekisecure,
+  title={A Secure Software Access Measure using Coupling, Complexity and Cohesion Metrics},
+  author={Vaitheki, K and Urmela, S}
+}
+
+@article{aljunid2012study,
+  title={A study on the program comprehension and debugging processes of novice programmers},
+  author={Aljunid, Syed Ahmad and Zin, Abdullah Mohd and Shukur, Zarina},
+  journal={Journal of Software Engineering},
+  volume={6},
+  number={1},
+  pages={1--9},
+  year={2012},
+  publisher={Science Alert}
+}
+
+@article{molina2016design,
+  title={From Design to Action in Clinical and Social Complexity: Continous Assesment of the Alt Pened{\'e}s Program},
+  author={Molina, Jos{\'e} and Pi{\~n}eiro, Pilar and Domenech, Montserrat and Mart{\'\i}nez, Lourdes and Garc{\'\i}a, M{\textordfeminine} Jes{\'u}s and Gen{\'e}, Montserrat},
+  journal={International Journal of Integrated Care},
+  volume={16},
+  number={6},
+  year={2016},
+  publisher={Ubiquity Press}
+}
+
+@inproceedings{gu2011algorithm,
+  title={An Algorithm of Program Comprehension and Visual Representation for Object-Oriented Program},
+  author={Gu, Hui and Lin, Daomiao},
+  booktitle={International Conference on Artificial Intelligence and Computational Intelligence},
+  pages={52--59},
+  year={2011},
+  organization={Springer}
+}
+
+@incollection{battersby2014amorality,
+  title={Amorality, Complexity and Cosmopolitan Code},
+  author={Battersby, Paul},
+  booktitle={The Unlawful Society},
+  pages={209--223},
+  year={2014},
+  publisher={Springer}
+}
+
+@article{reinhardtclass,
+  title={A Class Concept for Microservices to Manage Dynamic Complexity and Code Reuse},
+  author={Reinhardt, Lukas and Hilbrich, Marcus}
+}
+
+@article{zirkelbach2016explorviz,
+  title={ExplorViz-Live Trace Visualization for System and Program Comprehension in Large Software Landscapes},
+  author={Zirkelbach, Christian},
+  year={2016}
+}
+
+@inproceedings{ribeiro2017right,
+  title={Who is Right? Evaluating Empirical Contradictions in the Readability and Comprehensibility of Source Code.},
+  author={Ribeiro, Talita Vieira and Travassos, Guilherme},
+  booktitle={CIbSE},
+  pages={595--608},
+  year={2017}
+}
+
+@phdthesis{masese2018predicting,
+  title={Predicting mobile social software learnability based on analysis of program complexity and memorability},
+  author={Masese, Nelson Bogomba},
+  year={2018},
+  school={Kibabii University}
+}
+
+@article{bethel20194,
+  title={4.10 Software Complexity, Heterogeneity, and User-facing Issues},
+  author={Bethel, EW and Patchett, J and Messmer, P and Parashar, M and Bauer, A and Srinivasan, M and Ono, K and R{\"o}ber, N and Gauger, N and Bennett, J and others},
+  journal={In Situ Visualization for Computational Science},
+  pages={34},
+  year={2019}
+}
+
+@article{masese2017interface,
+  title={Interface features, program complexity and memorability as indicators of learnability of mobile social software},
+  author={Masese, Nelson Bogomba and Muketha, Geoffrey Muchiri and Mbuguah, Samuel Mungai},
+  year={2017},
+  publisher={International Journal of Science and Research}
+}
+
+@article{hong2013variable,
+  title={Variable-Length Code Based on Order Complexity and Its Application in Random Permuted Symbol},
+  author={Hong, Soongi and Jin, Honglin and Kim, Yong-Goo and Choe, Yoonsik},
+  journal={IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences},
+  volume={96},
+  number={7},
+  pages={1657--1661},
+  year={2013},
+  publisher={The Institute of Electronics, Information and Communication Engineers}
+}
+
+@techreport{muslija2018correlation,
+  title={On the correlation between testing effort and software complexity metrics},
+  author={Muslija, Adnan and Enoiu, Eduard P},
+  year={2018},
+  institution={PeerJ Preprints}
+}
+
+@article{karunatilake2011study,
+  title={Study of junior software engineers' awareness on abstraction and reflective practise as techniques of program comprehension},
+  author={Karunatilake, HMLA},
+  year={2011}
+}
+
+@article{omri2018static,
+  title={Static Analysis and Code Complexity Metrics as Early Indicators of Software Defects},
+  author={Omri, Safa and Montag, Pascal and Sinz, Carsten},
+  journal={Journal of Software Engineering and Applications},
+  volume={11},
+  number={04},
+  pages={153},
+  year={2018},
+  publisher={Scientific Research Publishing}
+}
+
+@article{rajkumar2018empirical,
+  title={An empirical approach for complexity reduction and fault prediction for software quality attribute},
+  author={Rajkumar and Viji and Duraisamy, S},
+  journal={International Journal of Business Intelligence and Data Mining},
+  volume={13},
+  number={1-3},
+  pages={177--187},
+  year={2018},
+  publisher={Inderscience Publishers (IEL)}
+}
+
+@incollection{hatun2013engineering,
+  title={Engineering Adaptive Embedded Software: Managing Complexity and Evolution},
+  author={Hatun, Kardelen and de Roo, Arjan and Bergmans, Lodewijk and Bockisch, Christoph and Ak{\c{s}}it, Mehmet},
+  booktitle={Model-Based Design of Adaptive Embedded Systems},
+  pages={245--281},
+  year={2013},
+  publisher={Springer}
+}
+
+@article{zhu2011construction,
+  title={Construction of LDPC Code with Big Girth and Linear-encoding Complexity},
+  author={ZHU, Pei-jun and LIU, Xiao-ming},
+  journal={Computer Engineering},
+  pages={S1},
+  year={2011}
+}

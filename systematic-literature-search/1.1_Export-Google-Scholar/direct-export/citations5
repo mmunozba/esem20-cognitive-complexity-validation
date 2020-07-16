@@ -1,0 +1,148 @@
+@article{vorster2016mathematical,
+  title={Mathematical Method and Tool for IT System Complexity Reduction Ensuring Successful Delivery of Complex Software Projects},
+  author={VORSTER, Adele and LANGERMAN, Josef J},
+  journal={DEStech Transactions on Environment, Energy and Earth Sciences},
+  number={peem},
+  year={2016}
+}
+
+@inproceedings{okazaki2016roles,
+  title={THE ROLES OF CURIOSITY, VISUAL COMPLEXITY, AND PERCEIVED FIT IN THE CONSUMER INTENT TO SCAN QR CODE ADS},
+  author={Okazaki, Shintaro and Navarro, Angeles and Mukherji, Prokriti and Plangger, Kirk},
+  booktitle={2016 Global Marketing Conference at Hong Kong},
+  pages={711--711},
+  year={2016}
+}
+
+@inproceedings{de2018parser,
+  title={A Parser and a Software Visualization Environment to Support the Comprehension of MATLAB/Octave Programs.},
+  author={de Lima Mariano, Thiago and de Figueiredo Carneiro, Glauco and Monteiro, Miguel Pessoa and e Abreu, Fernando Brito and Munson, Ethan V},
+  booktitle={ICEIS (2)},
+  pages={179--186},
+  year={2018}
+}
+
+@article{ramasubbueffects,
+  title={Effects of Structural Complexity and Team Task Strategy on Object-Oriented Software Maintenance: An Experimental Test},
+  author={Ramasubbu, Narayan and Kemerer, Chris F and Hong, Jeff}
+}
+
+@article{bolazar2013verdicts,
+  title={VERDICTS: Visual Exploratory Requirements Discovery and Injection for Comprehension and Testing of Software},
+  author={Bolazar, Sefik Kanat},
+  year={2013}
+}
+
+@article{albuogsr,
+  title={OGSR: A Low Complexity Galileo Software Receiver using Orthogonal Data and Pilot Channels},
+  author={Albu-Rghaif, Ali and Lami, Ihsan A and Al-Aboodi, Maher}
+}
+
+@article{albalooshi2017comparative,
+  title={A Comparative Study on the Effect of Multiple Inheritance Mechanism in Java, C++, and Python on Complexity and Reusability of Code},
+  author={Albalooshi, Fawzi and Mahmood, Amjad},
+  journal={INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS},
+  volume={8},
+  number={6},
+  pages={109--116},
+  year={2017},
+  publisher={SCIENCE \& INFORMATION SAI ORGANIZATION LTD 19 BOLLING RD, BRADFORD, WEST~…}
+}
+
+@book{ratanotayanon2010creating,
+  title={Creating, maintaining and building task specific concern maps for supporting as-needed program comprehension},
+  author={Ratanotayanon, Sukanya},
+  year={2010},
+  publisher={California State University at Long Beach}
+}
+
+@book{kulhandjian2012uniquely,
+  title={Uniquely decodable code-division and low-complexity receivers for advanced signal design, multiplexing, and multiple-access communications},
+  author={Kulhandjian, Michel},
+  year={2012},
+  publisher={State University of New York at Buffalo}
+}
+
+@article{piter2018correlation,
+  title={CORRELATION BETWEEN STUDENTS’PREFERENCES ON THEIR TEACHERS’CODE-SWITCHING AND READING COMPREHENSION PERFORMANCE},
+  author={Piter, William and Loeneto, Bambang and Jaya, Hariswan Putera},
+  journal={The Journal of English Literacy Education (The Teaching and Learning of English as A Foreign Language},
+  volume={5},
+  number={2},
+  pages={182--193},
+  year={2018}
+}
+
+@article{pirzadehsoftware,
+  title={Software Visualization Techniques for the Representation and Exploration of Execution Traces with a Focus on Program Comprehension Tasks},
+  author={Pirzadeh, Heidar and Hamou-Lhadj, Abdelwahab}
+}
+
+@article{liang2015number,
+  title={The Number of 2\~{} n-period Binary Sequences of a Given k-error Linear Complexity and Matlab Program},
+  author={LIANG, Jing and PAN, Juanjuan},
+  journal={Journal of Pingdingshan University},
+  number={2},
+  pages={20},
+  year={2015}
+}
+
+@phdthesis{khoshbakht2018improving,
+  title={Improving processor power demand comprehension in data-driven power and software phase classification and prediction},
+  author={Khoshbakht, Saman},
+  year={2018}
+}
+
+@inproceedings{song2013software,
+  title={Software Oriented Fuzzy Comprehension Assessment Model for the Education Quality of Primary and Secondary School Teachers},
+  author={Song, Bo},
+  booktitle={2013 IEEE 13th International Conference on Advanced Learning Technologies},
+  pages={346--348},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{peitek2018beyond,
+  title={Beyond gaze: preliminary analysis of pupil dilation and blink rates in an fMRI study of program comprehension},
+  author={Peitek, Norman and Siegmund, Janet and Parnin, Chris and Apel, Sven and Brechmann, Andr{\'e}},
+  booktitle={Proceedings of the Workshop on Eye Movements in Programming (EMIP'18)},
+  year={2018}
+}
+
+@inproceedings{rathod2013efficient,
+  title={An Efficient Genetic Based Algorithm for an Irregular Low Density Parity Check Code with Low Computational Complexity and Low Error Floor},
+  author={Rathod, DP and Awale, RN},
+  booktitle={International Conference on Advances in Computing, Communication and Control},
+  pages={249--258},
+  year={2013},
+  organization={Springer}
+}
+
+@inproceedings{desouky2014qualitative,
+  title={A qualitative analysis of code clones and object oriented runtime complexity based on method access points},
+  author={Desouky, Amr F and Beard, Matthew D and Etzkorn, Letha H},
+  booktitle={International Conference for Convergence for Technology-2014},
+  pages={1--5},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{sheats2018using,
+  title={Using readability software to enhance the health literacy of equine veterinary clients: An analysis of 17 American Association of Equine Practitioners’ newsletter and website articles},
+  author={Sheats, MK and Royal, K and Kedrowicz, A},
+  journal={Equine veterinary journal},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+
+@phdthesis{fakhreddine2013examining,
+  title={Examining the effectiveness of the visualizing and verbalizing program for language comprehension and thinking{\copyright} on two bilingual students with Asperger syndrome.(c2013)},
+  author={Fakhreddine, Siham A},
+  year={2013}
+}
+
+@misc{bjuhr2016reducing,
+  title={Reducing software complexity by hidden structure analysis: Methods to improve modularity and decrease ambiguity of a software system},
+  author={Bjuhr, Oscar and Segeljakt, Klas},
+  year={2016}
+}

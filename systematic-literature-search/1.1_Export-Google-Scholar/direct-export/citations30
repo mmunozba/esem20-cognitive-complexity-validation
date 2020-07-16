@@ -1,0 +1,194 @@
+@article{west2011water,
+  title={Water-scrum-fall is the reality of agile for most organizations today},
+  author={West, Dave and Gilpin, Mike and Grant, Tom and Anderson, Alissa},
+  journal={Forrester Research},
+  volume={26},
+  year={2011}
+}
+
+@article{khan2014scrumban,
+  title={Scrumban-Adaptive Agile Development Process: Using scrumban to improve software development process},
+  author={Khan, Zahoor},
+  year={2014},
+  publisher={Metropolia Ammattikorkeakoulu}
+}
+
+@inproceedings{alias2010multi,
+  title={Multi-dimensional rankings, program termination, and complexity bounds of flowchart programs},
+  author={Alias, Christophe and Darte, Alain and Feautrier, Paul and Gonnord, Laure},
+  booktitle={International Static Analysis Symposium},
+  pages={117--133},
+  year={2010},
+  organization={Springer}
+}
+
+@article{shin2010evaluating,
+  title={Evaluating complexity, code churn, and developer activity metrics as indicators of software vulnerabilities},
+  author={Shin, Yonghee and Meneely, Andrew and Williams, Laurie and Osborne, Jason A},
+  journal={IEEE transactions on software engineering},
+  volume={37},
+  number={6},
+  pages={772--787},
+  year={2010},
+  publisher={IEEE}
+}
+
+@article{rando2012combinatorial,
+  title={Combinatorial complexity in chromatin structure and function: revisiting the histone code},
+  author={Rando, Oliver J},
+  journal={Current opinion in genetics \& development},
+  volume={22},
+  number={2},
+  pages={148--155},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@book{miller2013complexity,
+  title={Complexity of Computer Computations: Proceedings of a symposium on the Complexity of Computer Computations, held March 20 22, 1972, at the IBM Thomas J. Watson Research Center, Yorktown Heights, New York, and sponsored by the Office of Naval Research, Mathematics Program, IBM World Trade Corporation, and the IBM Research Mathematical Sciences Department},
+  author={Miller, R},
+  year={2013},
+  publisher={Springer Science \& Business Media}
+}
+
+@inproceedings{abbes2011empirical,
+  title={An empirical study of the impact of two antipatterns, blob and spaghetti code, on program comprehension},
+  author={Abbes, Marwen and Khomh, Foutse and Gueheneuc, Yann-Gael and Antoniol, Giuliano},
+  booktitle={2011 15th European Conference on Software Maintenance and Reengineering},
+  pages={181--190},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{kleven2011transfer,
+  title={Transfer program complexity and the take-up of social benefits},
+  author={Kleven, Henrik Jacobsen and Kopczuk, Wojciech},
+  journal={American Economic Journal: Economic Policy},
+  volume={3},
+  number={1},
+  pages={54--90},
+  year={2011}
+}
+
+@article{giesl2017analyzing,
+  title={Analyzing program termination and complexity automatically with AProVE},
+  author={Giesl, J{\"u}rgen and Aschermann, Cornelius and Brockschmidt, Marc and Emmes, Fabian and Frohn, Florian and Fuhs, Carsten and Hensel, Jera and Otto, Carsten and Pl{\"u}cker, Martin and Schneider-Kamp, Peter and others},
+  journal={Journal of Automated Reasoning},
+  volume={58},
+  number={1},
+  pages={3--31},
+  year={2017},
+  publisher={Springer}
+}
+
+@article{ciampa2012icanread,
+  title={ICANREAD: The effects of an online reading program on grade 1 students’ engagement and comprehension strategy use},
+  author={Ciampa, Katia},
+  journal={Journal of Research on Technology in Education},
+  volume={45},
+  number={1},
+  pages={27--59},
+  year={2012},
+  publisher={Taylor \& Francis}
+}
+
+@article{toropov2014comprehension,
+  title={Comprehension of drug toxicity: Software and databases},
+  author={Toropov, Andrey A and Toropova, Alla P and Raska Jr, Ivan and Leszczynska, Danuta and Leszczynski, Jerzy},
+  journal={Computers in Biology and Medicine},
+  volume={45},
+  pages={20--25},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@inproceedings{le2014effect,
+  title={The effect of an animal-assisted reading program on the reading rate, accuracy and comprehension of grade 3 students: A randomized control study},
+  author={Le Roux, Marieanna C and Swartz, Leslie and Swart, Estelle},
+  booktitle={Child \& Youth Care Forum},
+  volume={43},
+  number={6},
+  pages={655--673},
+  year={2014},
+  organization={Springer}
+}
+
+@article{kosar2012program,
+  title={Program comprehension of domain-specific and general-purpose languages: comparison using a family of experiments},
+  author={Kosar, Toma{\v{z}} and Mernik, Marjan and Carver, Jeffrey C},
+  journal={Empirical software engineering},
+  volume={17},
+  number={3},
+  pages={276--304},
+  year={2012},
+  publisher={Springer}
+}
+
+@article{spencer2010effects,
+  title={The effects of a fluency intervention program on the fluency and comprehension outcomes of Middle-School students with severe reading deficits},
+  author={Spencer, Sally A and Manis, Franklin R},
+  journal={Learning Disabilities Research \& Practice},
+  volume={25},
+  number={2},
+  pages={76--86},
+  year={2010},
+  publisher={Wiley Online Library}
+}
+
+@article{saynisch2010beyond,
+  title={Beyond frontiers of traditional project management: An approach to evolutionary, self-organizational principles and the complexity theory—results of the research program},
+  author={Saynisch, Manfred},
+  journal={Project Management Journal},
+  volume={41},
+  number={2},
+  pages={21--37},
+  year={2010},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{ponzanelli2013leveraging,
+  title={Leveraging crowd knowledge for software comprehension and development},
+  author={Ponzanelli, Luca and Bacchelli, Alberto and Lanza, Michele},
+  booktitle={2013 17th European Conference on Software Maintenance and Reengineering},
+  pages={57--66},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{wnuk2011scaling,
+  title={Scaling up requirements engineering--exploring the challenges of increasing size and complexity in market-driven software development},
+  author={Wnuk, Krzysztof and Regnell, Bj{\"o}rn and Berenbach, Brian},
+  booktitle={International Working Conference on Requirements Engineering: Foundation for Software Quality},
+  pages={54--59},
+  year={2011},
+  organization={Springer}
+}
+
+@article{apthorp2012effects,
+  title={Effects of a supplemental vocabulary program on word knowledge and passage comprehension},
+  author={Apthorp, Helen and Randel, Bruce and Cherasaro, Trudy and Clark, Tedra and McKeown, Margaret and Beck, Isabel},
+  journal={Journal of Research on Educational Effectiveness},
+  volume={5},
+  number={2},
+  pages={160--188},
+  year={2012},
+  publisher={Taylor \& Francis}
+}
+
+@article{riegel2010developing,
+  title={Developing an instrument to measure heart failure disease management program intensity and complexity},
+  author={Riegel, Barbara and Lee, Christopher S and Sochalski, Julie},
+  journal={Circulation: Cardiovascular Quality and Outcomes},
+  volume={3},
+  number={3},
+  pages={324--330},
+  year={2010},
+  publisher={Am Heart Assoc}
+}
+
+@article{landsberg2010hypersurfaces,
+  title={Hypersurfaces with degenerate duals and the geometric complexity theory program},
+  author={Landsberg, Joseph M and Manivel, Laurent and Ressayre, Nicolas},
+  journal={arXiv preprint arXiv:1004.4802},
+  year={2010}
+}

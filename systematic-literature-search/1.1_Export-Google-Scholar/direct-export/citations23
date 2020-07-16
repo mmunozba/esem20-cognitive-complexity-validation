@@ -1,0 +1,187 @@
+@article{gupta2010object,
+  title={Object oriented static and dynamic software metrics for design and complexity},
+  author={Gupta, Varun},
+  journal={NIT Kurukshetra},
+  year={2010}
+}
+
+@inproceedings{begel2011industrial,
+  title={Industrial program comprehension challenge 2011: Archeology and anthropology of embedded control systems},
+  author={Begel, Andrew and Quante, Jochen},
+  booktitle={2011 IEEE 19th International Conference on Program Comprehension},
+  pages={227--229},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{pamuji2015correlation,
+  title={The correlation among attitude, reading comprehension, and writing achievement of English education study program students of Sriwijaya University},
+  author={Pamuji, Arief},
+  journal={Jurnal Adminika},
+  volume={1},
+  number={1},
+  year={2015}
+}
+
+@inproceedings{lavania2014application,
+  title={Application of computational intelligence in measuring the elasticity between software complexity and deliverability},
+  author={Lavania, Siddharth and Darbari, Manuj and Ahuja, Neelu J and Siddqui, IA},
+  booktitle={2014 IEEE International Advance Computing Conference (IACC)},
+  pages={1415--1418},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{munoz2015key,
+  title={Key challenges in software application complexity and obsolescence management within aerospace industry},
+  author={Mu{\~n}oz, Ra{\'u}l Gonz{\'a}lez and Shehab, Essam and Weinitzke, Martin and Bence, Rachel and Fowler, Chris and Tothill, Stephen and Baguley, Paul},
+  journal={Procedia CIRP},
+  volume={37},
+  pages={24--29},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@techreport{delange2015evaluating,
+  title={Evaluating and mitigating the impact of complexity in software models},
+  author={Delange, Julien and Hudak, John and Nichols, William and McHale, James and Nam, Min-Young},
+  year={2015},
+  institution={CARNEGIE-MELLON UNIV PITTSBURGH PA PITTSBURGH United States}
+}
+
+@article{kendig2015effect,
+  title={The effect of a new surgery residency program on case volume and case complexity in a sub-saharan african hospital},
+  author={Kendig, Claire and Tyson, Anna and Young, Sven and Mabedi, Charles and Cairns, Bruce and Charles, Anthony},
+  journal={Journal of surgical education},
+  volume={72},
+  number={4},
+  pages={e94--e99},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@inproceedings{steindl2012optimizing,
+  title={Optimizing software integration by considering integration test complexity and test effort},
+  author={Steindl, Michael and Mottok, Juergen},
+  booktitle={Proceedings of the 10th International Workshop on Intelligent Solutions in Embedded Systems},
+  pages={63--68},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{orbea2010teaching,
+  title={The teaching of reading comprehension and metacomprehension strategies. A program implemented by teaching staff.[La ense{\~n}anza de estrategias de comprensi{\'o}n y metacomprensi{\'o}n lectora. Un programa implementado por el profesorado]},
+  author={Orbea, Jos{\'e} Mar{\'\i}a Madariaga and Villabeitia, Estibaliz Mart{\'\i}nez},
+  journal={Anales de Psicolog{\'\i}a/Annals of Psychology},
+  volume={26},
+  number={1},
+  pages={112--122},
+  year={2010}
+}
+
+@inproceedings{ludi2016exploration,
+  title={Exploration of the use of auditory cues in code comprehension and navigation for individuals with visual impairments in a visual programming environment},
+  author={Ludi, Stephanie and Simpson, Jamie and Merchant, Wil},
+  booktitle={Proceedings of the 18th International ACM SIGACCESS Conference on Computers and Accessibility},
+  pages={279--280},
+  year={2016},
+  organization={ACM}
+}
+
+@article{sung2016linear,
+  title={Linear network coding for erasure broadcast channel with feedback: Complexity and algorithms},
+  author={Sung, Chi Wan and Shum, Kenneth W and Huang, Linyu and Kwan, Ho Yuet},
+  journal={IEEE Transactions on Information Theory},
+  volume={62},
+  number={5},
+  pages={2493--2503},
+  year={2016},
+  publisher={IEEE}
+}
+
+@inproceedings{gabelli2010performance,
+  title={A performance and complexity optimization of joint code and frame synchronization for DVB-S2/RCS mobile},
+  author={Gabelli, Giulio and Palestini, Claudio and Cioni, Stefano and Vanelli-Coralli, Alessandro and Corazza, Giovanni E},
+  booktitle={2010 5th Advanced Satellite Multimedia Systems Conference and the 11th Signal Processing for Space Communications Workshop},
+  pages={190--197},
+  year={2010},
+  organization={IEEE}
+}
+
+@article{alarfaj2012effect,
+  title={The effect of a suggested training program on reading speed and comprehension of Saudi female university students},
+  author={Alarfaj, Abeer and Alshumaimeri, Yousif},
+  journal={Procedia-Social and Behavioral Sciences},
+  volume={31},
+  pages={612--628},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@inproceedings{akanmu2010comparative,
+  title={Comparative study of complexities of breadth-first search and depth-first search algorithms using software complexity measures},
+  author={Akanmu, TA and Olabiyisi, SO and Omidiora, EO and Oyeleye, CA and Mabayoje, MA and Babatunde, AO},
+  booktitle={Proceedings of the World Congress on Engineering},
+  volume={1},
+  year={2010}
+}
+
+@article{mihandoost2011effectiveness,
+  title={The effectiveness of the barton’s intervention program on reading comprehension and reading attitude of students with dyslexia},
+  author={Mihandoost, Zeinab and Elias, Habibah},
+  journal={Iranian journal of psychiatry and behavioral sciences},
+  volume={5},
+  number={2},
+  pages={43},
+  year={2011},
+  publisher={Kowsar Medical Institute}
+}
+
+@article{gravino2015source,
+  title={Source-code comprehension tasks supported by UML design models: Results from a controlled experiment and a differentiated replication},
+  author={Gravino, Carmine and Scanniello, Giuseppe and Tortora, Genoveffa},
+  journal={Journal of Visual Languages \& Computing},
+  volume={28},
+  pages={23--38},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{smith2011pattern,
+  title={The pattern instance notation: A simple hierarchical visual notation for the dynamic visualization and comprehension of software patterns},
+  author={Smith, Jason McC},
+  journal={Journal of Visual Languages \& Computing},
+  volume={22},
+  number={5},
+  pages={355--374},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{rugaber2011managing,
+  title={Managing software complexity and variability in coupled climate models},
+  author={Rugaber, Spencer and Dunlap, Rocky and Ansari, Sameer and others},
+  journal={IEEE software},
+  volume={28},
+  number={6},
+  pages={43--48},
+  year={2011},
+  publisher={IEEE}
+}
+
+@article{tao2014complexity,
+  title={Complexity measure based on program slicing and its validation},
+  author={Tao, Hongwei and Chen, Yixiang},
+  journal={Wuhan University Journal of Natural Sciences},
+  volume={19},
+  number={6},
+  pages={512--518},
+  year={2014},
+  publisher={Springer}
+}
+
+@article{fittkau2012online,
+  title={Online trace visualization for system and program comprehension in large software landscapes},
+  author={Fittkau, Florian},
+  year={2012}
+}

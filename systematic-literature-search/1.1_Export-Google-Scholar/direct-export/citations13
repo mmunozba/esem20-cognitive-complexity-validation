@@ -1,0 +1,153 @@
+@inproceedings{galster20172nd,
+  title={2nd International Workshop on Variability and Complexity in Software Design (VACE 2017)},
+  author={Galster, Matthias and Goedicke, Michael and Weyns, Danny and Zdun, Uwe},
+  booktitle={2017 IEEE/ACM 2nd International Workshop on Variability and Complexity in Software Design (VACE)},
+  pages={1--1},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{tajvidi2016analyzability,
+  title={The Analyzability of Translational Language as a Third Code: SL/ST and TL Centripetal and‎ Centrifugal Force},
+  author={Tajvidi, Gholam Reza and Delouei, Mohammad Reza Rezaeian},
+  journal={Translation Studies Quarterly},
+  volume={14},
+  number={54},
+  year={2016}
+}
+
+@article{wang2013compromise,
+  title={A Compromise LDPC Code Decoding Algorithm between Performance and Complexity},
+  author={WANG, Ying-lun and SONG, Xue-rui},
+  journal={Computer and Information Technology},
+  number={4},
+  pages={8},
+  year={2013}
+}
+
+@article{kalani2015effectiveness,
+  title={The effectiveness of linguistic play software package on reading accuracy and comprehension of students with reading disorder},
+  author={KALANI, S and ASGHARI, NEKAH SM and GHANAEI, CHAMANABAD A},
+  year={2015},
+  publisher={JOURNAL OF LEARNING DISABILITIES}
+}
+
+@article{baek2016improving,
+  title={Improving Legibility and Understandability of Source Code by Using Korean Naming Convention Tool},
+  author={Baek, Seungjun and Park, Young B},
+  journal={JOURNAL OF PLATFORM TECHNOLOGY},
+  volume={4},
+  number={3},
+  pages={16--21},
+  year={2016}
+}
+
+@article{cruz2016introducing,
+  title={Introducing a Speed Reading and Comprehension Program to the English Teachers of an Elementary School in Baguio City},
+  author={Cruz, Dela and Analissa, E},
+  year={2016}
+}
+
+@article{rafieyan2018production,
+  title={Production and Comprehension Aspects of Pragmatic Competence in an Immersive Language Program},
+  author={Rafieyan, Vahid and Rozycki, William},
+  journal={Cross-Cultural Communication},
+  volume={14},
+  number={4},
+  pages={83--93},
+  year={2018}
+}
+
+@inproceedings{lahsini2012low,
+  title={A low complexity pixel Domain Video Coding based on Turbo code and Arithmetic code},
+  author={Lahsini, Cyrine and Pyndiah, Ramesh and Zaibi, Sonia and Bouallegue, Ammar},
+  booktitle={2012 International Conference on Wireless Communications in Underground and Confined Areas},
+  pages={1--6},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{griffith2017read,
+  title={The Read 180{\textregistered} Program and Reading Comprehension Strategies for Students with Disabilities},
+  author={Griffith, Brianna},
+  year={2017}
+}
+
+@article{jbara2015regularity,
+  title={Regularity of Code: A New Structural Property and its Effect on Code Complexity and Comprehension},
+  author={Jbara, Ahmad},
+  year={2015}
+}
+
+@article{tjortjisdata,
+  title={Data Mining Code Clustering (DMCC): An Approach Supporting Software Maintenance and Comprehension},
+  author={Tjortjis, Christos}
+}
+
+@article{dela2015introducing,
+  title={Introducing Speed Reading and Comprehension Program to the English Teachers of St. Martin School, Inc. Baguio City},
+  author={Dela Cruz, Analissa},
+  year={2015}
+}
+
+@article{min2010research,
+  title={The research and comprehension of comprehensive application of computer software In Building rendering},
+  author={Min-Jiao, ZHU},
+  journal={Science \& Technology Information},
+  volume={2010},
+  number={34},
+  pages={8},
+  year={2010}
+}
+
+@article{silverman2017effects,
+  title={Effects of a multimedia enhanced reading buddies program on kindergarten and Grade 4 vocabulary and comprehension},
+  author={Silverman, Rebecca and Kim, Young-Suk and Hartranft, Anna and Nunn, Stephanie and McNeish, Daniel},
+  journal={The Journal of Educational Research},
+  volume={110},
+  number={4},
+  pages={391--404},
+  year={2017},
+  publisher={Taylor \& Francis}
+}
+
+@article{valipourcost,
+  title={Cost Estimation for Web Software Applications Use case Point, Language, Size and Complexity Factors},
+  author={Valipour, Fatemeh and Valipour, Saeideh}
+}
+
+@article{ribeiro2018attributes,
+  title={Attributes Influencing the Reading and Comprehension of Source Code--Discussing Contradictory Evidence},
+  author={Ribeiro, Talita Vieira and Travassos, Guilherme Horta},
+  journal={CLEI ELECTRONIC JOURNAL},
+  volume={21},
+  number={1},
+  year={2018}
+}
+
+@article{alawadempirical,
+  title={An Empirical Study of the Relationships between Code Readability and Software Complexity},
+  author={Alawad, Duaa and Panta, Manisha and Zibran, Minhaz and Islam, Md Rakibul}
+}
+
+@article{khan2018literature,
+  title={LITERATURE REVIEW ON SOFTWARE COMPLEXITY, SOFTWARE USABILITY AND SOFTWARE DELIVERABILITY.},
+  author={Khan, Mohd and Ahmad, Faiyaz and Khanum, Mohammadi Akheela and others},
+  journal={International Journal of Advanced Research in Computer Science},
+  volume={9},
+  number={2},
+  year={2018}
+}
+
+@article{zarudniev2018cost,
+  title={Cost and complexity research of software development to solve the problem of inventory management},
+  author={Zarudniev, Maksym Andriiovych and Huzhva, Viktor Oleksiiovych},
+  year={2018},
+  publisher={НТУ" ХПИ"}
+}
+
+@phdthesis{bruneliere2018generic,
+  title={Generic Model-based Approaches for Software Reverse Engineering and Comprehension},
+  author={Bruneliere, Hugo},
+  year={2018}
+}

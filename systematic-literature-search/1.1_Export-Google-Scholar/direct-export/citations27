@@ -1,0 +1,191 @@
+@article{heintz2013software,
+  title={Software engineering and complexity in effective algebraic geometry},
+  author={Heintz, Joos and Kuijpers, Bart and Paredes, Andr{\'e}s Rojas},
+  journal={Journal of Complexity},
+  volume={29},
+  number={1},
+  pages={92--138},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{durisic2013measuring,
+  title={Measuring the impact of changes to the complexity and coupling properties of automotive software systems},
+  author={Durisic, Darko and Nilsson, Martin and Staron, Miroslaw and Hansson, J{\"o}rgen},
+  journal={Journal of Systems and Software},
+  volume={86},
+  number={5},
+  pages={1275--1293},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@inproceedings{dreyfus2011digital,
+  title={Digital Cement: Software Portfolio Architecture, Complexity, and Flexibility.},
+  author={Dreyfus, David and Wyner, George M},
+  booktitle={AMCIS},
+  year={2011}
+}
+
+@article{tamargo2016examining,
+  title={Examining the relationship between comprehension and production processes in code-switched language},
+  author={Tamargo, Rosa E Guzzardo and Kroff, Jorge R Vald{\'e}s and Dussias, Paola E},
+  journal={Journal of memory and language},
+  volume={89},
+  pages={138--161},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{hiscox2014effects,
+  title={The effects of automatic spelling correction software on understanding and comprehension in compensated dyslexia: Improved recall following dictation},
+  author={Hiscox, Lucy and Leonavi{\v{c}}i{\=u}t{\.e}, Erika and Humby, Trevor},
+  journal={Dyslexia},
+  volume={20},
+  number={3},
+  pages={208--224},
+  year={2014},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{siegmund2012comparing,
+  title={Comparing program comprehension of physically and virtually separated concerns},
+  author={Siegmund, Janet and K{\"a}stner, Christian and Liebig, J{\"o}rg and Apel, Sven},
+  booktitle={Proceedings of the 4th International Workshop on Feature-Oriented Software Development},
+  pages={17--24},
+  year={2012},
+  organization={ACM}
+}
+
+@inproceedings{siegmund2016program,
+  title={Program comprehension: Past, present, and future},
+  author={Siegmund, Janet},
+  booktitle={2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)},
+  volume={5},
+  pages={13--20},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{nishizono2011source,
+  title={Source code comprehension strategies and metrics to predict comprehension effort in software maintenance and evolution tasks-an empirical study with industry practitioners},
+  author={Nishizono, Kazuki and Morisakl, Shuji and Vivanco, Rodrigo and Matsumoto, Kenichi},
+  booktitle={2011 27th IEEE International Conference on Software Maintenance (ICSM)},
+  pages={473--481},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{bottasso2010trajectory,
+  title={Trajectory optimization procedures for rotorcraft vehicles, their software implementation, and applicability to models of increasing complexity},
+  author={Bottasso, Carlo L and Maisano, Giorgio and Scorcelletti, Francesco},
+  journal={Journal of the American Helicopter Society},
+  volume={55},
+  number={3},
+  pages={32010--32010},
+  year={2010},
+  publisher={AHS International}
+}
+
+@article{cosgrove2012writers,
+  title={Writers and readers: deconvoluting the harmonic complexity of the histone code},
+  author={Cosgrove, Michael S},
+  journal={Nature structural \& molecular biology},
+  volume={19},
+  number={8},
+  pages={739},
+  year={2012},
+  publisher={Nature Publishing Group}
+}
+
+@inproceedings{nagwani2010data,
+  title={A data mining model to predict software bug complexity using bug estimation and clustering},
+  author={Nagwani, Naresh Kumar and Bhansali, Ashok},
+  booktitle={2010 International Conference on Recent Trends in Information, Telecommunication and Computing},
+  pages={13--17},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{darcy2010exploring,
+  title={Exploring complexity in open source software: Evolutionary patterns, antecedents, and outcomes},
+  author={Darcy, David P and Daniel, Sherae L and Stewart, Katherine J},
+  booktitle={2010 43rd Hawaii International Conference on System Sciences},
+  pages={1--11},
+  year={2010},
+  organization={IEEE}
+}
+
+@article{alenezi2016software,
+  title={Software architecture quality measurement stability and understandability},
+  author={Alenezi, Mamdouh},
+  journal={International Journal of Advanced Computer Science and Applications (IJACSA)},
+  volume={7},
+  number={7},
+  pages={550--559},
+  year={2016}
+}
+
+@article{misra2012framework,
+  title={Framework for evaluation and validation of software complexity measures},
+  author={Misra, Sanjay and Akman, Ibrahim and Colomo-Palacios, Ricardo},
+  journal={IET software},
+  volume={6},
+  number={4},
+  pages={323--334},
+  year={2012},
+  publisher={IET}
+}
+
+@article{nagar2011software,
+  title={Software efforts estimation using Use Case Point approach by increasing technical complexity and experience factors},
+  author={Nagar, Chetan},
+  journal={complexity},
+  volume={3},
+  pages={1--05},
+  year={2011},
+  publisher={Citeseer}
+}
+
+@inproceedings{padua2010measuring,
+  title={Measuring complexity, effectiveness and efficiency in software course projects},
+  author={P{\'a}dua, Wilson},
+  booktitle={Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering-Volume 1},
+  pages={545--554},
+  year={2010},
+  organization={ACM}
+}
+
+@article{kuhn2013ground,
+  title={Ground delay program planning: delay, equity, and computational complexity},
+  author={Kuhn, Kenneth D},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={35},
+  pages={193--203},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{devi2011abstract,
+  title={An abstract to calculate big o factors of time and space complexity of machine code},
+  author={Devi, S Gayathri and Selvam, K and Rajagopalan, SP},
+  year={2011},
+  publisher={IET}
+}
+
+@article{ahangarikiasari2013investigation,
+  title={Investigation of code complexity of an innovative algorithm based on ACO in weighted graph traversing and compare it to traditional ACO and Bellman-Ford},
+  author={Ahangarikiasari, Hojjatollah and Saraji, Mehdi Rahmani and Torabi, Mohammad},
+  journal={Journal of Bioinformatics and Intelligent Control},
+  volume={2},
+  number={1},
+  pages={73--78},
+  year={2013}
+}
+
+@phdthesis{scott2010using,
+  title={Using flowcharts, code and animation for improved comprehension and ability in novice programming},
+  author={Scott, Andrew Simon},
+  year={2010},
+  school={University of Glamorgan}
+}

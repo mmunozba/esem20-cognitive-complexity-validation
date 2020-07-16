@@ -1,0 +1,176 @@
+@inproceedings{baumgartner2012framing,
+  title={Framing core and advanced competencies for undergraduate information systems program courses: Does the nature, level, complexity and audience of a course matter?},
+  author={Baumgartner, Ilse and Shankararaman, Venky},
+  booktitle={Proceedings of IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE) 2012},
+  pages={H2A--12},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{zermann2011patient,
+  title={The patient after radical prostatectomy: complexity and efficiency of a urological rehabilitation program},
+  author={Zermann, DH},
+  journal={Der Urologe. Ausg. A},
+  volume={50},
+  number={4},
+  pages={425--432},
+  year={2011}
+}
+
+@article{frost2010nearly,
+  title={Nearly Wordless Techniques for Software Instruction: Increasing Comprehension and Higher Level Learning},
+  author={Frost, Raymond D and Pels, Sarah},
+  journal={Issues in Information Systems},
+  volume={11},
+  pages={191--198},
+  year={2010}
+}
+
+@inproceedings{vahidov2016effects,
+  title={Effects of negotiation tactics and task complexity in software agent: human negotiations},
+  author={Vahidov, Rustam and Saade, Raafat and Yu, Bo},
+  booktitle={Proceedings of the 18th Annual International Conference on Electronic Commerce: e-Commerce in Smart connected World},
+  pages={17},
+  year={2016},
+  organization={ACM}
+}
+
+@article{mehrabi2018effect,
+  title={The effect of the substrate type in virtual concurrent classes on the oral comprehension of the Iranian language learners: the case of Adobe Connect Platform and Skype Software},
+  author={Mehrabi, Marzieh and Homapour, Sepideh},
+  journal={Language Related Research},
+  volume={9},
+  number={2},
+  pages={251--276},
+  year={2018},
+  publisher={Language Related Research}
+}
+
+@techreport{sohr2016towards,
+  title={Towards Security Program Comprehension with Design by Contract and Slicing},
+  author={Sohr, Karsten and Mustafa, Tanveer and Gulmann, Markus and Gerken, Patrick},
+  year={2016},
+  institution={Citeseer}
+}
+
+@inproceedings{alasti2018low,
+  title={A low complexity and flexible implementation of 2 n-QAM for software defined radio applications},
+  author={Alasti, Hadi},
+  booktitle={2018 15th IEEE Annual Consumer Communications \& Networking Conference (CCNC)},
+  pages={1--6},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{alodwan2018effect,
+  title={The Effect of a Computer Program Based on Analysis, Design, Development, Implementation and Evaluation (ADDIE) in Improving Ninth Graders' Listening and Reading Comprehension Skills in English in Jordan.},
+  author={Alodwan, Talal and Almosa, Mosaab},
+  journal={English Language Teaching},
+  volume={11},
+  number={4},
+  pages={43--51},
+  year={2018},
+  publisher={ERIC}
+}
+
+@book{parmer2011successmaker,
+  title={SuccessMaker{\textregistered} software—the effects on reading fluency and reading comprehension: A true experimental design},
+  author={Parmer, Rhonda M},
+  year={2011},
+  publisher={University of Houston-Clear Lake}
+}
+
+@article{nita20143d,
+  title={3D Radio and X-Ray Modeling and Data Analysis Software: Revealing Flare Complexity},
+  author={Nita, Gelu M and Fleishman, Gregory D and Kuznetsov, Alexey A and Kontar, Eduard P and Gary, Dale E},
+  journal={arXiv preprint arXiv:1409.0896},
+  year={2014}
+}
+
+@article{de2016critical,
+  title={Critical Realism and Realist Review: Analyzing Complexity in Educational Restructuring and the Limits of Generalizing Program Theories Across Borders},
+  author={De Souza, Denise E},
+  journal={American Journal of Evaluation},
+  volume={37},
+  number={2},
+  pages={216--237},
+  year={2016},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+@incollection{mino2016philosophy,
+  title={Philosophy of Field Methods in the GPSS-GLI Program: Dealing with Complexity to Achieve Resilience and Sustainable Societies},
+  author={Mino, Takashi and Esteban, Miguel and Asokan, Vivek Anand and Satanarachchi, Niranji and Akiyama, Tomohiro and Ikeda, Izumi and Chen, Chiahsin},
+  booktitle={Sustainability Science: Field Methods and Exercises},
+  pages={3--19},
+  year={2016},
+  publisher={Springer}
+}
+
+@inproceedings{kandjani2012global,
+  title={Global software development: measuring, approximating and reducing the complexity of global software development using extended axiomatic design theory},
+  author={Kandjani, Hadi and Bernus, Peter and Wen, Lian},
+  booktitle={ACIS 2012: Location, location, location: Proceedings of the 23rd Australasian Conference on Information Systems 2012},
+  pages={1--11},
+  year={2012},
+  organization={ACIS}
+}
+
+@article{zarei2013contribution,
+  title={The contribution of word formation, code-mixing, multiple-choice, and gap-filling tasks to l2 vocabulary comprehension and production},
+  author={Zarei, Abbas Ali and Ab, Maryam Afrash},
+  journal={International Journal of Language Learning and Applied Linguistics World},
+  volume={4},
+  number={1},
+  pages={136--149},
+  year={2013}
+}
+
+@article{macgill2011resisting,
+  title={Resisting technicist approaches in favour of complexity and social justice in a teacher education program},
+  author={MacGill, Bindi and Whitehead, Kay and others},
+  journal={Social Alternatives},
+  volume={30},
+  number={4},
+  pages={38},
+  year={2011},
+  publisher={Social Alternatives}
+}
+
+@inproceedings{lessa2015use,
+  title={On the Use of a Multiple View Interactive Environment for MATLAB and Octave Program Comprehension},
+  author={Lessa, Ivan M and Carneiro, Glauco de F and Monteiro, Miguel P and e Abreu, Fernando Brito},
+  booktitle={International Conference on Computational Science and Its Applications},
+  pages={640--654},
+  year={2015},
+  organization={Springer}
+}
+
+@article{reis2011retrospective,
+  title={A retrospective study of treatment complexity and efficiency in a brazilian undergraduate comprehensive dental care program},
+  author={Reis, Sandra Cristina Guimar{\~a}es Bahia and Santos, Laura Barbosa and Leles, Cl{\'a}udio Rodrigues},
+  journal={Education Research International},
+  volume={2011},
+  year={2011},
+  publisher={Hindawi Publishing Corporation}
+}
+
+@phdthesis{xing2015towards,
+  title={Towards Agent-based Multi-scale Tumor Growth Modeling: Software Environment and Computational Complexity},
+  author={Xing, Fei},
+  year={2015}
+}
+
+@article{kirmitzoglou2014development,
+  title={Development of algorithms and software for unravelling the biological role of low complexity regions in protein sequences},
+  author={Kirmitzoglou, Ioannis K},
+  year={2014},
+  publisher={$\Pi$$\alpha$$\nu$$\varepsilon$$\pi$$\iota$$\sigma$$\tau$$\acute{\eta}$$\mu$$\iota$o K$\acute{\nu}$$\pi$$\rho$o$\upsilon$, $\Sigma$$\chi$o$\lambda$$\acute{\eta}$ $\Theta$$\varepsilon$$\tau$$\iota$$\kappa$$\acute{\omega}$$\nu$ $\kappa$$\alpha$$\iota$ E$\varphi$$\alpha$$\rho$$\mu$o$\sigma$$\mu$$\acute{\varepsilon}$$\nu$$\omega$$\nu$ E$\pi$$\iota$$\sigma$$\tau$$\eta$$\mu$$\acute{\omega}$$\nu$/University of~…}
+}
+
+@techreport{park2010exploiting,
+  title={Exploiting code-redundancies in ECOC for reducing its training complexity using incremental and SVM learners},
+  author={Park, Sang-Hyeun and Weizs{\"a}cker, Lorenz and F{\"u}rnkranz, Johannes},
+  year={2010},
+  institution={Technical Report TUDKE-2010-06, TU Darmstadt (July 2010)}
+}

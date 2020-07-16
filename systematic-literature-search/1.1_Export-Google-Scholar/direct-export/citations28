@@ -1,0 +1,204 @@
+@article{ren2011block,
+  title={Block-orthogonal space--time code structure and its impact on QRDM decoding complexity reduction},
+  author={Ren, Tian Peng and Guan, Yong Liang and Yuen, Chau and Zhang, Er Yang},
+  journal={IEEE Journal of Selected Topics in Signal Processing},
+  volume={5},
+  number={8},
+  pages={1438--1450},
+  year={2011},
+  publisher={IEEE}
+}
+
+@article{lin2010video,
+  title={A video-based CALL program for proficient and less-proficient L2 learners’ comprehension ability, incidental vocabulary acquisition},
+  author={Lin, Lu-Fang},
+  journal={Educational Media International},
+  volume={47},
+  number={3},
+  pages={199--216},
+  year={2010},
+  publisher={Taylor \& Francis}
+}
+
+@article{reniers2014solid,
+  title={The Solid* toolset for software visual analytics of program structure and metrics comprehension: From research prototype to product},
+  author={Reniers, Dennie and Voinea, Lucian and Ersoy, Ozan and Telea, Alexandru},
+  journal={Science of Computer Programming},
+  volume={79},
+  pages={224--240},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{loke2014complexity,
+  title={Complexity for Artificial Substrates (CASU): software for creating and visualising habitat complexity},
+  author={Loke, Lynette HL and Jachowski, Nicholas R and Bouma, Tjeerd J and Ladle, Richard J and Todd, Peter A},
+  journal={PLoS One},
+  volume={9},
+  number={2},
+  pages={e87990},
+  year={2014},
+  publisher={Public Library of Science}
+}
+
+@inproceedings{terceiro2010empirical,
+  title={An empirical study on the structural complexity introduced by core and peripheral developers in free software projects},
+  author={Terceiro, Antonio and Rios, Luiz Romario and Chavez, Christina},
+  booktitle={2010 Brazilian Symposium on Software Engineering},
+  pages={21--29},
+  year={2010},
+  organization={IEEE}
+}
+
+@article{urquiza2013toward,
+  title={Toward the effective use of educational program animations: The roles of student's engagement and topic complexity},
+  author={Urquiza-Fuentes, Jaime and Vel{\'a}zquez-Iturbide, J {\'A}ngel},
+  journal={Computers \& Education},
+  volume={67},
+  pages={178--192},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{pawlowski2012automating,
+  title={Automating embedded analysis capabilities and managing software complexity in multiphysics simulation, Part II: Application to partial differential equations},
+  author={Pawlowski, Roger P and Phipps, Eric T and Salinger, Andrew G and Owen, Steven J and Siefert, Christopher M and Staten, Matthew L},
+  journal={Scientific Programming},
+  volume={20},
+  number={3},
+  pages={327--345},
+  year={2012},
+  publisher={Hindawi}
+}
+
+@inproceedings{turner2014eye,
+  title={An eye-tracking study assessing the comprehension of C++ and Python source code},
+  author={Turner, Rachel and Falcone, Michael and Sharif, Bonita and Lazar, Alina},
+  booktitle={Proceedings of the Symposium on Eye Tracking Research and Applications},
+  pages={231--234},
+  year={2014},
+  organization={ACM}
+}
+
+@article{andersson2012swedish,
+  title={Swedish nursing students' experience of aspects important for their learning process and their ability to handle the complexity of the nursing degree program},
+  author={Andersson, Petra Lilja and Edberg, Anna-Karin},
+  journal={Nurse education today},
+  volume={32},
+  number={4},
+  pages={453--457},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@book{erdogmus2013advances,
+  title={Advances in software engineering: comprehension, evaluation, and evolution},
+  author={Erdogmus, Hakan and Tanir, Oryal},
+  year={2013},
+  publisher={Springer Science \& Business Media}
+}
+
+@inproceedings{guerrouj2013normalizing,
+  title={Normalizing source code vocabulary to support program comprehension and software quality},
+  author={Guerrouj, Latifa},
+  booktitle={Proceedings of the 2013 International Conference on Software Engineering},
+  pages={1385--1388},
+  year={2013},
+  organization={IEEE Press}
+}
+
+@article{mcgarry2011assessing,
+  title={Assessing software upgrades, plan properties and patient geometry using intensity modulated radiation therapy (IMRT) complexity metrics},
+  author={McGarry, Conor K and Chinneck, Candice D and O'Toole, Monica M and O'Sullivan, Joe M and Prise, Kevin M and Hounsell, Alan R},
+  journal={Medical physics},
+  volume={38},
+  number={4},
+  pages={2027--2034},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+
+@article{polzer2012managing,
+  title={Managing complexity and variability of a model-based embedded software product line},
+  author={Polzer, Andreas and Merschen, Daniel and Botterweck, Goetz and Pleuss, Andreas and Thomas, Jacques and Hedenetz, Bernd and Kowalewski, Stefan},
+  journal={Innovations in Systems and Software Engineering},
+  volume={8},
+  number={1},
+  pages={35--49},
+  year={2012},
+  publisher={Springer}
+}
+
+@article{lee2013task,
+  title={Task environment complexity, global team dispersion, process capabilities, and coordination in software development},
+  author={Lee, Gwanhoo and Espinosa, J Alberto and DeLone, William H},
+  journal={IEEE Transactions on Software Engineering},
+  volume={39},
+  number={12},
+  pages={1753--1771},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{gander2013algorithm,
+  title={Algorithm 932: PANG: software for nonmatching grid projections in 2D and 3D with linear complexity},
+  author={Gander, Martin J and Japhet, Caroline},
+  journal={ACM Transactions on Mathematical Software (TOMS)},
+  volume={40},
+  number={1},
+  pages={6},
+  year={2013},
+  publisher={ACM}
+}
+
+@article{sharma2012applying,
+  title={Applying requirement based complexity for the estimation of software development and testing effort},
+  author={Sharma, Ashish and Kushwaha, Dharmender Singh},
+  journal={ACM SIGSOFT Software Engineering Notes},
+  volume={37},
+  number={1},
+  pages={1--11},
+  year={2012},
+  publisher={ACM}
+}
+
+@article{baillot2016higher,
+  title={Higher-order interpretations and program complexity},
+  author={Baillot, Patrick and Dal Lago, Ugo},
+  journal={Information and Computation},
+  volume={248},
+  pages={56--81},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{goldberg2014measuring,
+  title={Measuring software screen complexity: relating eye tracking, emotional valence, and subjective ratings},
+  author={Goldberg, Joseph H},
+  journal={International Journal of Human-Computer Interaction},
+  volume={30},
+  number={7},
+  pages={518--532},
+  year={2014},
+  publisher={Taylor \& Francis}
+}
+
+@article{pagan2014involving,
+  title={Involving parents in a summer book reading program to promote reading comprehension, fluency, and vocabulary in grade 3 and grade 5 children.},
+  author={Pagan, Stephanie and S{\'e}n{\'e}chal, Monique},
+  journal={Canadian Journal of Education},
+  volume={37},
+  number={2},
+  pages={n2},
+  year={2014},
+  publisher={ERIC}
+}
+
+@inproceedings{salviulo2014dealing,
+  title={Dealing with identifiers and comments in source code comprehension and maintenance: Results from an ethnographically-informed study with students and professionals},
+  author={Salviulo, Felice and Scanniello, Giuseppe},
+  booktitle={Proceedings of the 18th international conference on evaluation and assessment in software engineering},
+  pages={48},
+  year={2014},
+  organization={ACM}
+}

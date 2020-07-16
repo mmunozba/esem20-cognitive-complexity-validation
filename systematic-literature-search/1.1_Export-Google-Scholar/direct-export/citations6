@@ -1,0 +1,135 @@
+@phdthesis{falk2016selected,
+  title={Selected Code-Related and Language-Related Factors of Reading Comprehension for Deaf and Hard of Hearing Students},
+  author={Falk, Jodi Lara},
+  year={2016},
+  school={Teachers College}
+}
+
+@article{aliproposed,
+  title={A Proposed Metacognition-Based CALL Program to Improve EFL Students’ Reading Comprehension Skills and Motivation},
+  author={Ali, Doaa Ali Abdrabou and Qoura, Aly A and Gohar, Rehab H and Amin, Amin S}
+}
+
+@inproceedings{wareham2016computational,
+  title={On the Computational Complexity of Software (Re) Modularization: Elaborations and Opportunities},
+  author={Wareham, Todd},
+  booktitle={Proceedings of the 9th EAI International Conference on Bio-inspired Information and Communications Technologies (formerly BIONETICS)},
+  pages={418--424},
+  year={2016},
+  organization={ICST (Institute for Computer Sciences, Social-Informatics and~…}
+}
+
+@inproceedings{kaul2019benefits,
+  title={Benefits of Physical Interaction with Array Elements and Code Consolidation on Student Comprehension of Sorting Algorithms},
+  author={Kaul, Anisha and Pinedo, Julia Ann and Wallace, Anya},
+  booktitle={Proceedings of the 50th ACM Technical Symposium on Computer Science Education},
+  pages={1263--1264},
+  year={2019},
+  organization={ACM}
+}
+
+@article{kusumacorrelation,
+  title={THE CORRELATION BETWEEN THE FOURTH SEMESTER ENGLISH EDUCATION STUDY PROGRAM STUDENTS’VOCABULARIES AND READING COMPREHENSION SCORES},
+  author={Kusuma, Sugeng Hadi}
+}
+
+@phdthesis{hejmady2011cognitive,
+  title={A Cognitive Model and Gaze-Based Evaluation of Multiple Representation use during Program Comprehension and Debugging},
+  author={Hejmady, Prateek},
+  year={2011}
+}
+
+@inproceedings{lessa2015concern,
+  title={A Concern Visualization Approach for Improving MATLAB and Octave Program Comprehension},
+  author={Lessa, Ivan De M and Carneiro, Glauco De F and Monteiro, Miguel P and e Abreu, Fernando Brito},
+  booktitle={2015 29th Brazilian Symposium on Software Engineering},
+  pages={130--139},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{bustamantereading,
+  title={Reading Comprehension, Academic Optimism and Motivational Differences of Students in Engineering and Science Education Program},
+  author={Bustamante, Anne Georgette A}
+}
+
+@article{staal2015examination,
+  title={An examination of the complexity and comprehensibility of various software models},
+  author={Staal, Taran},
+  year={2015}
+}
+
+@article{velayudhan2018role,
+  title={Role of technological uncertainty, technical complexity, intuition and reflexivity in project planning--a study on software development projects},
+  author={Velayudhan, Divya P and Thomas, Sam},
+  journal={International Journal of Project Organisation and Management},
+  volume={10},
+  number={1},
+  pages={82--92},
+  year={2018},
+  publisher={Inderscience Publishers (IEL)}
+}
+
+@article{streeter2014interactive,
+  title={Interactive Software To Improve Reading Comprehension And Text Production},
+  author={Streeter, Patricio Villagran and others},
+  year={2014}
+}
+
+@incollection{struska2011methods,
+  title={Methods for Software Complexity and Development Effort Estimation and its Importance in the Area of ICT Governance},
+  author={Struska, Zdenek and Van{\'\i}cek, Jir{\'\i} and Z{\'a}vodn{\`y}, Martin},
+  booktitle={Cases on Adoption, Diffusion and Evaluation of Global E-Governance Systems: Impact at the Grass Roots},
+  pages={117--147},
+  year={2011},
+  publisher={IGI Global}
+}
+
+@article{maughan2017complexity,
+  title={Complexity and service provision in the Royal Children's Hospital's Family Choice Program},
+  author={Maughan, Katherine},
+  year={2017}
+}
+
+@article{geary2016exploration,
+  title={Exploration of the relationship between tacit knowledge and software system test complexity},
+  author={Geary, Niall},
+  year={2016},
+  publisher={University College Cork}
+}
+
+@phdthesis{salamehdesigning,
+  title={Designing an English Instructional Program Based on Semantic Mapping and Questioning Reading Strategies and Measuring its Effect on Hashemite University Students' Reading Comprehension},
+  author={Salameh, Bani and AL-Qader, Lina Abed and Al-Makhzoomi, Khalaf}
+}
+
+@article{yalccindeveloping,
+  title={DEVELOPING A SOFTWARE FOR INCREASING READING RATE AND EFFECTIVE READING COMPREHENSION: READ FAST ENHANCE MEMORY},
+  author={YAL{\c{C}}IN, Asst Prof Dr Nursel and YAL{\c{C}}IN, Alemdar and ADIG{\"U}ZEL, Lect Dr Ferah BURGUL}
+}
+
+@article{brardeep,
+  title={Deep Appraisal of Understandability and Reusability using Comments Analysis in Source Code},
+  author={Brar, Jitender Singh and Sarangdevot, SS and Goar, Vishal}
+}
+
+@phdthesis{ambede2016design,
+  title={Design of low complexity variable digital filters and filter banks for software defined radio receivers},
+  author={Ambede, Abhishek},
+  year={2016}
+}
+
+@article{almehsin2017effectiveness,
+  title={The Effectiveness of a Training Program Based on Active Learning Strategies and its Relationship to Reading Comprehension in both Critical and Creative Levels},
+  author={Almehsin, Salama Aqeel Salama},
+  year={2017},
+  publisher={Research on Humanities and Social Sciences}
+}
+
+@book{winkler2017software,
+  title={Software Quality. Complexity and Challenges of Software Engineering in Emerging Technologies: 9th International Conference, SWQD 2017, Vienna, Austria, January 17-20, 2017, Proceedings},
+  author={Winkler, Dietmar and Biffl, Stefan and Bergsmann, Johannes},
+  volume={269},
+  year={2017},
+  publisher={Springer}
+}

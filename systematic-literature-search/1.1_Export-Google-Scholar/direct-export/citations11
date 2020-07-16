@@ -1,0 +1,171 @@
+@article{liu2011analysis,
+  title={Analysis and Metrics for Complexity of Software Systems Based on Software-Core Structure},
+  author={LIU, Zheng and ZHAO, Hai and ZHANG, Qian},
+  journal={Journal of Northeastern University (Natural Science)},
+  number={9},
+  pages={5},
+  year={2011}
+}
+
+@inproceedings{jha2016program,
+  title={Program Code Understandability and Authenticating Code Predicting Systems: A Metric-Based Approach},
+  author={Jha, Pooja and Patnaik, K Sridhar},
+  booktitle={Proceedings of the International Conference on Signal, Networks, Computing, and Systems},
+  pages={95--103},
+  year={2016},
+  organization={Springer}
+}
+
+@inproceedings{moorthy2011program,
+  title={Program Comprehension and Implications of Human Navigational Approaches},
+  author={Moorthy, Senthilrajan and Samadzadeh, MH},
+  booktitle={2011 21st International Conference on Systems Engineering},
+  pages={189--193},
+  year={2011},
+  organization={IEEE}
+}
+
+@book{gilliam2011relationship,
+  title={The relationship between the use of the Accelerated Reader program and reading comprehension scores for deaf and hard of hearing students},
+  author={Gilliam, Dennis Anthony},
+  year={2011},
+  publisher={Lamar University-Beaumont}
+}
+
+@article{arthur2018holographic,
+  title={Holographic software for quantum networksfootnotetext $$\backslash$dagger $ Current address: School of Physical and Mathematical Sciences and Complexity Institute, Nanyang Technological University, Singapore 637723, Singapore},
+  author={Arthur, Jaffe and Zhengwei, Liu and Alex, Wozniakowski},
+  journal={SCIENCE CHINA Mathematics},
+  volume={61},
+  number={4},
+  pages={593},
+  year={2018},
+  publisher={Science China Press}
+}
+
+@inproceedings{kozyrev2018code,
+  title={Code Biology and Kolmogorov Complexity},
+  author={Kozyrev, Sergei V},
+  booktitle={International Conference of Artificial Intelligence, Medical Engineering, Education},
+  pages={93--101},
+  year={2018},
+  organization={Springer}
+}
+
+@phdthesis{smith2018elements,
+  title={The Elements of an Effective Response to Intervention Program and Its Impact on Middle School Reading Comprehension Scores},
+  author={Smith, Larry E},
+  year={2018},
+  school={Baker University}
+}
+
+@article{heering2015generative,
+  title={Generative software complexity and software understanding},
+  author={Heering, Jan},
+  journal={Science of Computer Programming},
+  volume={97},
+  pages={82--85},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{sarala975advanced,
+  title={Advanced Program Complexity Metrics and Measurement},
+  author={Sarala, S},
+  journal={International Journal of Computer Applications},
+  volume={975},
+  pages={8887},
+  publisher={Citeseer}
+}
+
+@inproceedings{podila2016visualization,
+  title={A Visualization Tool for 3D Graphics Program Comprehension and Debugging},
+  author={Podila, Sahithi and Zhu, Ying},
+  booktitle={2016 IEEE Working Conference on Software Visualization (VISSOFT)},
+  pages={111--115},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{fakhouryimproving,
+  title={Improving Source Code Readability: Theory and Practice},
+  author={Fakhoury, Sarah and Roy, Devjeet and Hassan, Sk Adnan and Arnaoudova, Venera}
+}
+
+@article{thakore2012assessing,
+  title={Assessing the Software Complexity and Security metrics from UML Class diagram},
+  author={Thakore, DM and Sarde, SJ},
+  journal={framework},
+  volume={2},
+  number={4},
+  year={2012},
+  publisher={Citeseer}
+}
+
+@inproceedings{zhang2016application,
+  title={Application of complexity and brittleness on software architecture},
+  author={Zhang, Hong and Hu, Changzhen and Wang, Xiaojun},
+  booktitle={2016 8th IEEE International Conference on Communication Software and Networks (ICCSN)},
+  pages={570--573},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{isola2018performance,
+  title={PERFORMANCE EVALUATION OF IMPROVED COGNITIVE COMPLEXITY METRIC AND OTHER CODE BASED COMPLEXITY METRICS.},
+  author={Isola, Esther and Olabiyisi, Stephen and Omidiora, Elijah and Ganiyu, Rafiu},
+  journal={Annals. Computer Science Series},
+  volume={16},
+  number={1},
+  year={2018}
+}
+
+@article{luo2013analysis,
+  title={Analysis and application of influences of AOP for software complexity},
+  author={Luo, Si-Mao and Zhou, Xing-Bin},
+  journal={Computer Engineering and Design},
+  volume={34},
+  number={5},
+  year={2013},
+  publisher={China Aerospace Science \& Industry Corporation, P. O. Box 142 Beijing 100854~…}
+}
+
+@phdthesis{saxena2015evaluating,
+  title={EVALUATING TESTING EFFORT AND ITS CORELATION TO CYCLOMACTIC COMPLEXITY AND CODE COVERAGE},
+  author={Saxena, Pallavi},
+  year={2015},
+  school={University of Akron}
+}
+
+@inproceedings{argyropoulos2015reading,
+  title={Reading Comprehension Issues and Individuals with Visual Impairments: The Effects of Using 8-dot and 6-dot Braille Code Through a Braille Display},
+  author={Argyropoulos, Vassilios and Martos, Aineias and Sideridis, Georgios and Kouroupetroglou, Georgios and Nikolaraizi, Magda and Papazafiri, Maria},
+  booktitle={International Conference on Universal Access in Human-Computer Interaction},
+  pages={71--81},
+  year={2015},
+  organization={Springer}
+}
+
+@article{colazo2015interplay,
+  title={The interplay among software volatility, complexity and development outcomes: evidence from open source software.},
+  author={Colazo, Jorge A and others},
+  journal={IJITM},
+  volume={14},
+  number={2/3},
+  pages={160--171},
+  year={2015}
+}
+
+@incollection{mcdonald2018new,
+  title={New Ways of Knowing and Researching: Integrating Complexity into a Translational Health Sciences Program},
+  author={McDonald, Paige L and Lotrecchiano, Gaetano R},
+  booktitle={Putting Systems and Complexity Sciences Into Practice},
+  pages={133--145},
+  year={2018},
+  publisher={Springer}
+}
+
+@article{gonzalezsoftware,
+  title={SOFTWARE COMPLEXITY METRIC AND COGNITIVE PROCESSES: TOWARDS A NEW SOFTWARE ENGINEERING ECONOMICS},
+  author={Gonz{\'a}lez-Disla, Renato R}
+}

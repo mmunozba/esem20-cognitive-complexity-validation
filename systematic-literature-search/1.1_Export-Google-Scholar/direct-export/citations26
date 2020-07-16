@@ -1,0 +1,196 @@
+@article{zaytsev2013increasing,
+  title={Increasing quality and managing complexity in neuroinformatics software development with continuous integration},
+  author={Zaytsev, Yury V and Morrison, Abigail},
+  journal={Frontiers in neuroinformatics},
+  volume={6},
+  pages={31},
+  year={2013},
+  publisher={Frontiers}
+}
+
+@article{silverman2017effects,
+  title={Effects of a cross-age peer learning program on the vocabulary and comprehension of English learners and non-English learners in elementary school},
+  author={Silverman, Rebecca D and Martin-Beltran, Melinda and Peercy, Megan M and Hartranft, Anna M and McNeish, Daniel M and Artzi, Lauren and Nunn, Stephanie},
+  journal={The Elementary School Journal},
+  volume={117},
+  number={3},
+  pages={485--512},
+  year={2017},
+  publisher={University of Chicago Press Chicago, IL}
+}
+
+@article{kruse2011cortical,
+  title={Cortical gene expression in spinal cord injury and repair: insight into the functional complexity of the neural regeneration program},
+  author={Kruse, Fabian and Bosse, Frank and Vogelaar, Christina F and Brazda, Nicole and K{\"u}ry, Patrick and Gasis, Marcia and M{\"u}ller, Hans Werner},
+  journal={Frontiers in molecular neuroscience},
+  volume={4},
+  pages={26},
+  year={2011},
+  publisher={Frontiers}
+}
+
+@article{ogheneovo2014relationship,
+  title={On the relationship between software complexity and maintenance costs},
+  author={Ogheneovo, Edward E},
+  journal={Journal of Computer and Communications},
+  volume={2},
+  number={14},
+  pages={1},
+  year={2014},
+  publisher={Scientific Research Publishing}
+}
+
+@article{dibble2014refactoring,
+  title={Refactoring code to increase readability and maintainability: a case study},
+  author={Dibble II, Christopher and Gestwicki, Paul},
+  journal={Journal of Computing Sciences in Colleges},
+  volume={30},
+  number={1},
+  pages={41--51},
+  year={2014},
+  publisher={Consortium for Computing Sciences in Colleges}
+}
+
+@inproceedings{schots2012awareness,
+  title={Awareness and comprehension in software/systems engineering practice and education: trends and research directions},
+  author={Schots, Marcelo and Mendon{\c{c}}a, Manoel and others},
+  booktitle={2012 26th Brazilian Symposium on Software Engineering},
+  pages={186--190},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{brugali2015model,
+  title={Model-driven software engineering in robotics: Models are designed to use the relevant things, thereby reducing the complexity and cost in the field of robotics},
+  author={Brugali, Davide},
+  journal={IEEE Robotics \& Automation Magazine},
+  volume={22},
+  number={3},
+  pages={155--166},
+  year={2015},
+  publisher={IEEE}
+}
+
+@inproceedings{alves2014empirical,
+  title={An empirical study on the estimation of size and complexity of software applications with function points analysis},
+  author={Alves, Lu{\'\i}s M and Oliveira, S{\'e}rgio and Ribeiro, Pedro and Machado, Ricardo J},
+  booktitle={2014 14th International Conference on Computational Science and Its Applications},
+  pages={27--34},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{dos2014using,
+  title={Using Social Networks to Support Software Ecosystems Comprehension and Evolution},
+  author={dos Santos, Rodrigo Pereira and Esteves, Maria Gilda P and Freitas, Gleisson de S and de Souza, Jano Moreira},
+  journal={Social Networking},
+  volume={3},
+  number={02},
+  pages={108},
+  year={2014},
+  publisher={Scientific Research Publishing}
+}
+
+@inproceedings{boechler2014computational,
+  title={Computational thinking, code complexity, and prior experience in a videogame-building assignment},
+  author={Boechler, Patricia and Artym, Corbett and Dejong, Erik and Carbonaro, Mike and Stroulia, Eleni},
+  booktitle={2014 IEEE 14th International Conference on Advanced Learning Technologies},
+  pages={396--398},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{gravino2010empirical,
+  title={An empirical investigation on the relation between analysis models and source code comprehension},
+  author={Gravino, Carmine and Tortora, Genoveffa and Scanniello, Giuseppe},
+  booktitle={Proceedings of the 2010 ACM Symposium on Applied Computing},
+  pages={2365--2366},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{debbarma2012static,
+  title={Static and dynamic software metrics complexity analysis in regression testing},
+  author={Debbarma, Mrinal Kanti and Kar, Nirmalya and Saha, Ashim},
+  booktitle={2012 International Conference on Computer Communication and Informatics},
+  pages={1--6},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{stetsenko2015petri,
+  title={Petri-object simulation: Software package and complexity},
+  author={Stetsenko, Inna V and Dorosh, Vitaliy I and Dyfuchyn, Anton},
+  booktitle={2015 IEEE 8th International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS)},
+  volume={1},
+  pages={381--385},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{robiolo2011simple,
+  title={How simple is it to measure software size and complexity for an it practitioner?},
+  author={Robiolo, Gabriela},
+  booktitle={2011 International Symposium on Empirical Software Engineering and Measurement},
+  pages={40--48},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{junior2010empirical,
+  title={Empirical validation of complexity and extensibility metrics for software product line architectures},
+  author={Junior, Edson A Oliveira and Maldonado, Jose C and Gimenes, Itana MS},
+  booktitle={2010 Fourth Brazilian Symposium on Software Components, Architectures and Reuse},
+  pages={31--40},
+  year={2010},
+  organization={IEEE}
+}
+
+@article{galster2017variability,
+  title={Variability and Complexity in Software Design: Towards a Research Agenda},
+  author={Galster, Matthias and Zdun, Uwe and Weyns, Danny and Rabiser, Rick and Zhang, Bo and Goedicke, Michael and Perrouin, Gilles},
+  journal={ACM SIGSOFT Software Engineering Notes},
+  volume={41},
+  number={6},
+  pages={27--30},
+  year={2017},
+  publisher={ACM}
+}
+
+@article{joosten2011program,
+  title={Program-size versus time complexity, speed-up and slowdown phenomena in small Turing machines},
+  author={Joosten, Joost J and Soler-Toscano, Fernando and Zenil, Hector},
+  journal={arXiv preprint arXiv:1102.5389},
+  year={2011}
+}
+
+@article{norton2014helping,
+  title={Helping youth transition into an alternative residential school setting: Exploring the effects of a wilderness orientation program on youth purpose and identity complexity},
+  author={Norton, Christine Lynn and Wisner, Betsy L and Krugh, Matthew and Penn, Aleah},
+  journal={Child and Adolescent Social Work Journal},
+  volume={31},
+  number={5},
+  pages={475--493},
+  year={2014},
+  publisher={Springer}
+}
+
+@article{gayo2014effect,
+  title={Effect of an intervention program on the reading comprehension processes and strategies in 5th and 6th grade students},
+  author={Gayo, Elena and Dea{\~n}o, Manuel and Ribeiro, Iolanda and Cadime, Irene and Alfonso, Sonia and others},
+  journal={Psicothema},
+  volume={26},
+  number={4},
+  pages={464--470},
+  year={2014}
+}
+
+@inproceedings{liu2011low,
+  title={Low complexity PTS algorithm based on gray code and its FPGA implementation},
+  author={Liu, Junjun and Wei, Zhang and Zhu, Yuan and Teng, Ma},
+  booktitle={IEEE 2011 10th International Conference on Electronic Measurement \& Instruments},
+  volume={3},
+  pages={208--211},
+  year={2011},
+  organization={IEEE}
+}

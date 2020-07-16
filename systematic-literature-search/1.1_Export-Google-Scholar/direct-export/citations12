@@ -1,0 +1,159 @@
+@book{botterweck2017mastering,
+  title={Mastering Scale and Complexity in Software Reuse: 16th International Conference on Software Reuse, ICSR 2017, Salvador, Brazil, May 29-31, 2017, Proceedings},
+  author={Botterweck, Goetz and Werner, Claudia},
+  volume={10221},
+  year={2017},
+  publisher={Springer}
+}
+
+@article{dao2012comprehension,
+  title={Comprehension and Visual Representation Algorithm of Object-oriented Program},
+  author={Dao-miao, LIN and Hui, GU},
+  journal={Computer Engineering},
+  number={6},
+  pages={25},
+  year={2012}
+}
+
+@phdthesis{holland2019mixed,
+  title={A Mixed-Methods Study Involving the Effects on Reading Comprehension and Student Motivation in the Fourth-Grade Classroom Involving the Lyrics 2 Learn Program},
+  author={Holland, Amy L},
+  year={2019},
+  school={Northcentral University}
+}
+
+@article{galster2017,
+  title={2017 IEEE/ACM 2nd International Workshop on Variability and Complexity in Software Design (VACE 2017)},
+  author={Galster, Matthias and Goedicke, Michael and Weyns, Danny and Zdun, Uwe}
+}
+
+@article{suganantham2017quantitative,
+  title={A Quantitative Evaluation of Change Impact Reachability and Complexity Across Versions of Aspect Oriented Software.},
+  author={Suganantham, Senthil and Babu, Chitra and Raju, Madhumitha},
+  journal={International Arab Journal of Information Technology (IAJIT)},
+  volume={14},
+  number={1},
+  year={2017}
+}
+
+@article{liuhong2010research,
+  title={Research and Application of Software Complexity Analysis Based on CCCC},
+  author={Liuhong, XU Minhong HUANG},
+  journal={Journal of Guangdong Polytechnic Normal University},
+  number={9},
+  pages={9},
+  year={2010}
+}
+
+@inproceedings{yadav2014trade,
+  title={A trade-off establishment between software complexity and its usability using evolutionary multi-objective optimization (EMO)},
+  author={Yadav, Vandana and Lavania, Siddharth and Chaudhary, Arun and Dhanda, Namrata},
+  booktitle={2014 International Conference on Contemporary Computing and Informatics (IC3I)},
+  pages={80--82},
+  year={2014},
+  organization={IEEE}
+}
+
+@phdthesis{alrubaiy2010effect,
+  title={The Effect of Using RocketReader Software on Reading Speed and Comprehension of Saudi Undergraduate Female Students},
+  author={Alrubaiy’a, Uhoud},
+  year={2010},
+  school={College of Languages and Translation Department of English The Effect of~…}
+}
+
+@article{karthikalow,
+  title={A LOW COMPLEXITY RELIABLE CONCURRENT ERROR DETECTION ARCHITECTURE USING PARITY CODE AND DMC OVER GF (2 M)},
+  author={Karthika, J and Sujatha, D}
+}
+
+@inproceedings{vasudevan2011design,
+  title={Design and Complexity Analysis of Reed Solomon Code Algorithm for Advanced RAID System in Quaternary Domain},
+  author={Vasudevan, Varun and Sheshadri, Vinay and KS, Vasundara Patel and others},
+  booktitle={2011 IEEE Computer Society Annual Symposium on VLSI},
+  pages={307--312},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{pomorova2011intelligent,
+  title={Intelligent Support of Process of Evaluation and Prediction of Software Complexity and Quality},
+  author={Pomorova, OV and Hovorushchenko, TO},
+  year={2011},
+  publisher={НВФ" Українські технології"}
+}
+
+@inproceedings{al2015complexity,
+  title={Complexity and performance of QC-MDPC code-based McEliece cryptosystems},
+  author={Al Rasheed, Omran and Ivani{\v{s}}, Predrag},
+  booktitle={2015 12th International Conference on Telecommunication in Modern Satellite, Cable and Broadcasting Services (TELSIKS)},
+  pages={31--34},
+  year={2015},
+  organization={IEEE}
+}
+
+@phdthesis{casper2012study,
+  title={A Study of the Relationship Between Intelligence and Improvement in Rate of Reading and Comprehension in a Program Utilizing the Harvard Reading Films},
+  author={Casper, James Burton},
+  year={2012}
+}
+
+@article{muharlisiani2018designing,
+  title={DESIGNING COMPUTER-BASED EXERCISES USING WEBLOG, HOT POTATOES SOFTWARE AND SKYPE MESSENGERS IN CREATING IDEAS TO FACILITATE INDEPENDENCE LEARNING OF READING COMPREHENSION},
+  author={Muharlisiani, Lusy Tunik and Kukuh, Anang and Azizah, Siti},
+  journal={ELTIN JOURNAL, Journal of English Language Teaching in Indonesia},
+  volume={6},
+  number={1},
+  pages={11--21},
+  year={2018}
+}
+
+@inproceedings{mannan2018towards,
+  title={Towards understanding code readability and its impact on design quality},
+  author={Mannan, Umme Ayda and Ahmed, Iftekhar and Sarma, Anita},
+  booktitle={Proceedings of the 4th ACM SIGSOFT International Workshop on NLP for Software Engineering},
+  pages={18--21},
+  year={2018},
+  organization={ACM}
+}
+
+@article{chen2017analysis,
+  title={Analysis and Comparison of Software Complexity Model},
+  author={Chen, Hai-Yan},
+  journal={DEStech Transactions on Engineering and Technology Research},
+  number={mcee},
+  year={2017}
+}
+
+@article{boitor2014software,
+  title={SOFTWARE CONSUMER BEHAVIOUR AND ITS COMPLEXITY.},
+  author={Boitor, Axenia Bianca and Her{\c{t}}anu, Andreea and Br{\u{a}}tucu, Gabriel},
+  journal={Management \& Marketing},
+  volume={9},
+  number={2},
+  year={2014}
+}
+
+@article{dibble2013refactoring,
+  title={Refactoring code to increase readability and maintainability},
+  author={Dibble, Christopher},
+  year={2013}
+}
+
+@inproceedings{simmonds2018complexity,
+  title={Complexity and the Engineering of Bug-Free Software},
+  author={Simmonds, Devon M},
+  booktitle={Proceedings of the International Conference on Frontiers in Education: Computer Science and Computer Engineering (FECS)},
+  pages={94--100},
+  year={2018},
+  organization={The Steering Committee of The World Congress in Computer Science, Computer~…}
+}
+
+@inproceedings{cheng2012simple,
+  title={A Simple Complexity Measurement for Software Verification and Software Testing},
+  author={Cheng, Zheng and Monahan, Rosemary and Power, James F},
+  booktitle={Proceedings of the 1st International Workshop on Comparative Empirical Evaluation of Reasoning Systems},
+  volume={873},
+  pages={28--331},
+  year={2012},
+  organization={CEUR}
+}

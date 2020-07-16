@@ -1,0 +1,180 @@
+@article{hao2012concept,
+  title={On the Concept of Trusted Computing and Software Watermarking: A Computational Complexity Treatise},
+  author={Hao, Wu and Guoqing, Wu},
+  journal={Physics Procedia},
+  volume={25},
+  pages={465--474},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@book{fricke2015teachers,
+  title={Teachers' Experiences with the Foundations and Frameworks Reading Program andReading Comprehension},
+  author={Fricke, Michael Ryan},
+  year={2015},
+  publisher={Grand Canyon University}
+}
+
+@inproceedings{yaremchuk2016complexity,
+  title={Complexity-based Prediction of Faults Number for Software Modules Ranking Before Testing: Technique and Case Study.},
+  author={Yaremchuk, Svitlana and Kharchenko, Vyacheslav},
+  booktitle={ICTERI},
+  pages={427--440},
+  year={2016}
+}
+
+@inproceedings{idili2011managing,
+  title={Managing complexity in multi-algorithm, multi-scale biological simulations: an integrated software engineering and neuroinformatics approach},
+  author={Idili, Giovanni and Cantarelli, Matteo and Buibas, Marius and Busbice, Tim and Coggan, Jay and Grove, Christian and Khayrulin, Sergey and Palyanov, Andrey and Larson, Stephen D},
+  booktitle={Frontiers in Neuroinformatics Conference Abstract: 4th INCF Congress of Neuroinformatics},
+  volume={112},
+  year={2011}
+}
+
+@inproceedings{sjoberg2010challenge,
+  title={The challenge of assessing and controlling complexity in a large portfolio of software systems},
+  author={Sj{\o}berg, Dag IK and Odberg, Erik and Warlo, Borger},
+  booktitle={Proceedings of the 11th International Conference on Product Focused Software},
+  pages={71--74},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{hanakawa2011process,
+  title={A process refactoring for software development with process complexity and activity priority lists},
+  author={Hanakawa, Noriko},
+  booktitle={2011 Joint Conference of the 21st International Workshop on Software Measurement and the 6th International Conference on Software Process and Product Measurement},
+  pages={209--214},
+  year={2011},
+  organization={IEEE}
+}
+
+@misc{cataldo2011impact,
+  title={The impact of API complexity on failures: An empirical analysis of proprietary and open source software systems},
+  author={Cataldo, Marcelo and De Souza, Cleidson RB},
+  year={2011},
+  publisher={Technical Report 106, Instituti for Software Research, School of Computer~…}
+}
+
+@inproceedings{arar2010parallel,
+  title={Parallel low-complexity MIMO detection algorithm using QR decomposition and Alamouti space-time code},
+  author={Arar, Maher and Yongacoglu, Abbas},
+  booktitle={2010 European Wireless Conference (EW)},
+  pages={141--148},
+  year={2010},
+  organization={IEEE}
+}
+
+@article{noeparast2014effect,
+  title={The effect of using NetSupport School software on Iranian intermediate EFL learners’ vocabulary retention and reading comprehension},
+  author={Noeparast, Naeem and Khatami, Mojtaba},
+  journal={International Journal of Educational Investigations},
+  volume={1},
+  number={1},
+  pages={305--312},
+  year={2014}
+}
+
+@incollection{wang2010empirical,
+  title={Empirical evaluation of selected algorithms for complexity-based classification of software modules and a new model},
+  author={Wang, Jian Han and Bouguila, Nizar and Bdiri, Taoufik},
+  booktitle={Intelligent Systems: From Theory to Practice},
+  pages={99--131},
+  year={2010},
+  publisher={Springer}
+}
+
+@inproceedings{naufal2015software,
+  title={Software complexity metric-based defect classification using FARM with preprocessing step CFS and SMOTE a preliminary study},
+  author={Naufal, Mohammad Farid and Rochimah, Siti},
+  booktitle={2015 International Conference on Information Technology Systems and Innovation (ICITSI)},
+  pages={1--6},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{teja2014effects,
+  title={The effects of the read 180 program on oral reading fluency, linguistic comprehension, and reading comprehension with secondary special education students},
+  author={Teja, David Lyon},
+  year={2014}
+}
+
+@article{elango2016design,
+  title={Design of complete software GPS signal simulator with low complexity and precise multipath channel model},
+  author={Elango, G Arul and Sudha, GF},
+  journal={Journal of Electrical Systems and Information Technology},
+  volume={3},
+  number={2},
+  pages={161--180},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{vahidov2017effects,
+  title={The effects of interplay between negotiation tactics and task complexity in software agent to human negotiations},
+  author={Vahidov, Rustam and Saade, Raafat and Yu, Bo},
+  journal={Electronic Commerce Research and Applications},
+  volume={26},
+  pages={50--61},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@inproceedings{marter2016lightweight,
+  title={Lightweight programming experiments without programmers and programs: an example study on the effect of similarity and number of object identifiers on the readability of source code using natural texts},
+  author={Marter, Tim and Babucke, Paul and Lembken, Philipp and Hanenberg, Stefan},
+  booktitle={Proceedings of the 2016 ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software},
+  pages={1--14},
+  year={2016},
+  organization={ACM}
+}
+
+@inproceedings{lakhani2010improving,
+  title={Improving the reliability of embedded systems as complexity increases: supporting the migration between event-triggered and time-triggered software architectures},
+  author={Lakhani, Farah and Das, Anjali and Pont, Michael J},
+  booktitle={Proceedings of the 15th European Conference on Pattern Languages of Programs},
+  pages={22},
+  year={2010},
+  organization={ACM}
+}
+
+@article{saberali2014low,
+  title={Low-complexity ad-hoc non-linearities for blind multiuser detection of long-code code-division multiple access signals and asymptotic performance evaluation},
+  author={Saberali, Sayed Mohammad and Amindavar, Hamidreza},
+  journal={IET Communications},
+  volume={8},
+  number={9},
+  pages={1527--1533},
+  year={2014},
+  publisher={IET}
+}
+
+@article{eissa2015effectiveness,
+  title={The Effectiveness of a Self Regulated Learning-Based Training Program on Improving Cognitive and Metacognitive EFL Reading Comprehension of 9th Graders with Reading Disabilities.},
+  author={Eissa, Mourad Ali},
+  journal={Online Submission},
+  volume={4},
+  number={3},
+  pages={49--59},
+  year={2015},
+  publisher={ERIC}
+}
+
+@article{carnio2010relaccao,
+  title={Rela{\c{c}}{\~a}o entre n{\'\i}veis de compreens{\~a}o e estrat{\'e}gias de leitura utilizadas por surdos sinalizadores em um programa terap{\^e}utico Relationship between comprehension levels and reading strategies used in a therapeutic program by deaf individuals},
+  author={C{\'a}rnio, Maria S{\'\i}lvia and Csipai, Eleonora Silva and Couto, Maria In{\^e}s Vieira},
+  journal={Rev Soc Bras Fonoaudiol},
+  volume={15},
+  number={2},
+  pages={206--12},
+  year={2010}
+}
+
+@inproceedings{lema2012hypertextuality,
+  title={Hypertextuality, complexity, creativity: Using linguistic software tools to uncover new information about the food and drink of historic Mayans},
+  author={Lema, Rose},
+  booktitle={Forum Qualitative Sozialforschung/Forum: Qualitative Social Research},
+  volume={13},
+  number={2},
+  year={2012}
+}

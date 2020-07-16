@@ -1,0 +1,162 @@
+@article{chaurvedi2013empirical,
+  title={An Empirical Validation of the Complexity of Code Changes and Bugs in Predicting the Release Time of Open Source Software},
+  author={Chaurvedi, KK and Bedi, Punam and Misra, Sanjay and Singh, VB},
+  year={2013}
+}
+
+@inproceedings{reinhartz2011comprehension,
+  title={Comprehension and Utilization of Core Assets Models in Software Product Line Engineering.},
+  author={Reinhartz-Berger, Iris and Sturm, Arnon and Tsoury, Arava},
+  booktitle={CAiSE Forum},
+  pages={171--178},
+  year={2011}
+}
+
+@article{hill2014effect,
+  title={The Effect of the Accelerated Reader Program With and Without Motivational Incentives on Students’ Reading Comprehension and Fluency Levels},
+  author={Hill, Katherine A},
+  year={2014}
+}
+
+@book{gough2017comprehension,
+  title={Comprehension Literacy Improvement Program Implementation and Balanced Literacy Impact on Elementary Students.},
+  author={Gough, Timothy Jerome},
+  year={2017},
+  publisher={ERIC}
+}
+
+@article{charanya2017code,
+  title={Code Structure And Decoding Complexity For Double And TrippleAdjacent Error Correcting Parallel Decoder},
+  author={CHARANYA, N and SWATHANTRA, V},
+  journal={International Journal of Research},
+  volume={4},
+  number={13},
+  pages={1898--1904},
+  year={2017}
+}
+
+@article{jablonski2011software,
+  title={Software tool for Assessment of complexity and variability in Physiological Signals of respiration},
+  author={Jablonski, Ireneusz and Subzda, Kamil and Mroczka, Janusz},
+  journal={International Journal of Measurement Technologies and Instrumentation Engineering (IJMTIE)},
+  volume={1},
+  number={2},
+  pages={28--53},
+  year={2011},
+  publisher={IGI Global}
+}
+
+@article{tashtoush2013business,
+  title={A Business Classifier to Detect Readability Metrics on Software Games and Their Types},
+  author={Tashtoush, Yahya M and Darwish, Derar and Albdarneh, Motasim and Alsmadi, Izzat M and Alkhatib, Khalid},
+  journal={International Journal of E-Entrepreneurship and Innovation (IJEEI)},
+  volume={4},
+  number={4},
+  pages={47--57},
+  year={2013},
+  publisher={IGI Global}
+}
+
+@book{winkler2019software,
+  title={Software Quality: The Complexity and Challenges of Software Engineering and Software Quality in the Cloud: 11th International Conference, SWQD 2019, Vienna, Austria, January 15--18, 2019, Proceedings},
+  author={Winkler, Dietmar},
+  year={2019},
+  publisher={Springer}
+}
+
+@phdthesis{lavoie2015leveraging,
+  title={Leveraging Software Clones for Software Comprehension: Techniques and Practice},
+  author={Lavoie, Thierry M},
+  year={2015},
+  school={{\'E}cole Polytechnique de Montr{\'e}al}
+}
+
+@article{kumar2018code,
+  title={Code Constructions for Distributed Storage With Low Repair Bandwidth and Low Repair Complexity},
+  author={Kumar, Siddhartha and i Amat, Alexandre Graell and Andriyanova, Iryna and Br{\"a}nnstr{\"o}m, Fredrik and Rosnes, Eirik},
+  journal={IEEE Transactions on Communications},
+  volume={66},
+  number={12},
+  pages={5847--5860},
+  year={2018},
+  publisher={IEEE}
+}
+
+@techreport{jones2016understanding,
+  title={Understanding Complexity and Self-Organization in a Defense Program Management Organization (Experimental Design)},
+  author={Jones, Raymond},
+  year={2016},
+  institution={Naval Postgraduate School Monterey United States}
+}
+
+@article{brancalioni2016phonological,
+  title={Phonological disorders treatment effect with a stimulability and segment complexity strata model with speech intervention software (SIFALA)},
+  author={Brancalioni, Ana Rita and Keske-Soares, M{\'a}rcia},
+  journal={Revista CEFAC},
+  volume={18},
+  number={1},
+  pages={298--308},
+  year={2016},
+  publisher={SciELO Brasil}
+}
+
+@article{mendivelso2018metric,
+  title={Metric-centered and technology-independent architectural views for software comprehension},
+  author={Mendivelso, Luis F and Garc{\'e}s, Kelly and Casallas, Rubby},
+  journal={Journal of Software Engineering Research and Development},
+  volume={6},
+  number={1},
+  pages={16},
+  year={2018},
+  publisher={SpringerOpen}
+}
+
+@mastersthesis{koller2016effects,
+  title={Effects of Clean Code on Understandability: An Experiment and Analysis},
+  author={Koller, Henning Grimeland},
+  year={2016}
+}
+
+@article{chaturvediarticle,
+  title={of Article: An Empirical Validation of the Complexity of Code Changes and Bugs in},
+  author={Chaturvedi, KK and Misra, S}
+}
+
+@inproceedings{zhang2016low,
+  title={Low complexity and narrow transition band filter banks for software defined radio applications},
+  author={Zhang, Wenxu and Chen, Yajing and Dou, Zheng and Hu, Jianbo},
+  booktitle={2016 IEEE 13th International Conference on Signal Processing (ICSP)},
+  pages={1171--1175},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{calleja2018malsource,
+  title={The MalSource Dataset: Quantifying Complexity and Code Reuse in Malware Development},
+  author={Calleja, Alejandro and Tapiador, Juan and Caballero, Juan},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2018},
+  publisher={IEEE}
+}
+
+@inproceedings{wareham2016computational,
+  title={On the Computational Complexity of Designing and Reconfiguring Component-based Software Systems},
+  author={Wareham, Todd and Sweers, Marieke},
+  booktitle={Proceedings of the 9th EAI International Conference on Bio-inspired Information and Communications Technologies (formerly BIONETICS)},
+  pages={425--432},
+  year={2016},
+  organization={ICST (Institute for Computer Sciences, Social-Informatics and~…}
+}
+
+@article{sireeshaarchitecture,
+  title={An Architecture for Matching The Data Protected With an Error-Correcting Code To Reduce Complexity and Latency},
+  author={SIREESHA, N and BASHA, S MAHABOOB}
+}
+
+@article{konopka2017towards,
+  title={Towards robust data from program comprehension studies with fine-grained interaction monitoring and eye tracking},
+  author={Konopka, Martin and Hucko, Jakub and Tvarozek, Jozef and Navrat, Pavol},
+  journal={FACHBEREICH MATHEMATIK UND INFORMATIK SERIE B INFORMATIK},
+  pages={15},
+  year={2017}
+}

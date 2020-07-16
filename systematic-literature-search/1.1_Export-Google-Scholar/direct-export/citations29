@@ -1,0 +1,201 @@
+@article{restrepo2010effects,
+  title={Effects of a supplemental Spanish oral language program on sentence length, complexity, and grammaticality in Spanish-speaking children attending English-only preschools},
+  author={Restrepo, M Adelaida and Castilla, Anny P and Schwanenflugel, Paula J and Neuharth-Pritchett, Stacey and Hamilton, Claire E and Arboleda, Alejandra},
+  journal={Language, Speech, and Hearing Services in Schools},
+  year={2010},
+  publisher={ASHA}
+}
+
+@article{nita2015three,
+  title={Three-dimensional radio and X-ray modeling and data analysis software: Revealing flare complexity},
+  author={Nita, Gelu M and Fleishman, Gregory D and Kuznetsov, Alexey A and Kontar, Eduard P and Gary, Dale E},
+  journal={The Astrophysical Journal},
+  volume={799},
+  number={2},
+  pages={236},
+  year={2015},
+  publisher={IOP Publishing}
+}
+
+@article{hausheer2011improving,
+  title={Improving Reading Fluency and Comprehension among Elementary Students: Evaluation of a School Remedial Reading Program.},
+  author={Hausheer, Robin and Hansen, Alana and Doumas, Diana M},
+  journal={Journal of School Counseling},
+  volume={9},
+  number={9},
+  pages={n9},
+  year={2011},
+  publisher={ERIC}
+}
+
+@article{chen2010nonbinary,
+  title={Nonbinary LDPC codes constructed based on a cyclic MDS code and a low-complexity nonbinary message-passing decoding algorithm},
+  author={Chen, Chao and Bai, Baoming and Wang, Xinmei and Xu, Ming},
+  journal={IEEE Communications Letters},
+  volume={14},
+  number={3},
+  pages={239--241},
+  year={2010},
+  publisher={IEEE}
+}
+
+@article{moorman2010effects,
+  title={Effects of text-to-speech software on the reading rate and comprehension skills of high school students with specific learning disabilities},
+  author={Moorman, Amanda and Boon, Richard T and Keller-Bell, Yolanda and Stagliano, Christina and Jeffs, Tara},
+  journal={Learning Disabilities: A Multidisciplinary Journal},
+  volume={16},
+  number={1},
+  pages={41--49},
+  year={2010}
+}
+
+@article{zenil2014correlation,
+  title={Correlation of automorphism group size and topological properties with program-size complexity evaluations of graphs and complex networks},
+  author={Zenil, Hector and Soler-Toscano, Fernando and Dingle, Kamaludin and Louis, Ard A},
+  journal={Physica A: Statistical Mechanics and its Applications},
+  volume={404},
+  pages={341--358},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@book{wolf2013using,
+  title={Using complexity theory for research and program evaluation},
+  author={Wolf-Branigin, Michael},
+  year={2013},
+  publisher={Oxford University Press}
+}
+
+@inproceedings{clarke2016complexity,
+  title={A complexity theory viewpoint on the software development process and situational context},
+  author={Clarke, Paul and O'Connor, Rory V and Leavy, Brian},
+  booktitle={Proceedings of the International Conference on Software and Systems Process},
+  pages={86--90},
+  year={2016},
+  organization={ACM}
+}
+
+@inproceedings{ring2012software,
+  title={Software-based performance and complexity analysis for the design of embedded classification systems},
+  author={Ring, Matthias and Jensen, Ulf and Kugler, Patrick and Eskofier, Bjoern},
+  booktitle={Proceedings of the 21st International Conference on Pattern Recognition (ICPR2012)},
+  pages={2266--2269},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{pawlowski2012automating,
+  title={Automating embedded analysis capabilities and managing software complexity in multiphysics simulation, Part I: Template-based generic programming},
+  author={Pawlowski, Roger P and Phipps, Eric T and Salinger, Andrew G},
+  journal={Scientific Programming},
+  volume={20},
+  number={2},
+  pages={197--219},
+  year={2012},
+  publisher={IOS Press}
+}
+
+@article{bianco2012impact,
+  title={Impact of early code-skill and oral-comprehension training on reading achievement in first grade},
+  author={Bianco, Maryse and Pellenq, Catherine and Lambert, Eric and Bressoux, Pascal and Lima, Laurent and Doyen, Anne-Lise},
+  journal={Journal of research in reading},
+  volume={35},
+  number={4},
+  pages={427--455},
+  year={2012},
+  publisher={Wiley Online Library}
+}
+
+@article{fittkau2017software,
+  title={Software landscape and application visualization for system comprehension with ExplorViz},
+  author={Fittkau, Florian and Krause, Alexander and Hasselbring, Wilhelm},
+  journal={Information and software technology},
+  volume={87},
+  pages={259--277},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{notz2012graph,
+  title={Graph-based software design for managing complexity and enabling concurrency in multiphysics PDE software},
+  author={Notz, Patrick K and Pawlowski, Roger P and Sutherland, James C},
+  journal={ACM Transactions on Mathematical Software (TOMS)},
+  volume={39},
+  number={1},
+  pages={1},
+  year={2012},
+  publisher={ACM}
+}
+
+@article{sharma2013understanding,
+  title={Understanding collaborative program comprehension: Interlacing gaze and dialogues},
+  author={Sharma, Kshitij and Jermann, Patrick and N{\"u}ssli, Marc-Antoine and Dillenbourg, Pierre},
+  journal={Proceedings of Computer Supported Collaborative Learning (CSCL 2013)},
+  volume={1},
+  number={CONF},
+  pages={430--437},
+  year={2013}
+}
+
+@article{mcvicar2010parsimoniously,
+  title={Parsimoniously modelling perennial vegetation suitability and identifying priority areas to support China's re-vegetation program in the Loess Plateau: Matching model complexity to data availability},
+  author={McVicar, Tim R and Van Niel, Tom G and Li, LingTao and Wen, ZhongMing and Yang, QinKe and Li, Rui and Jiao, Feng},
+  journal={Forest Ecology and Management},
+  volume={259},
+  number={7},
+  pages={1277--1290},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{accikgoz2014team,
+  title={Team climate, team cognition, team intuition, and software quality: The moderating role of project complexity},
+  author={A{\c{c}}{\i}kg{\"o}z, Atif and G{\"u}nsel, Ay{\c{s}}e and Bayyurt, Nizamettin and Kuzey, Cemil},
+  journal={Group Decision and Negotiation},
+  volume={23},
+  number={5},
+  pages={1145--1176},
+  year={2014},
+  publisher={Springer}
+}
+
+@article{donnell2015correlational,
+  title={A correlational study of a reading comprehension program and attrition rates of ESL nursing students in Texas},
+  author={Donnell, Wendy M},
+  journal={Nursing education perspectives},
+  volume={36},
+  number={1},
+  pages={16--21},
+  year={2015},
+  publisher={LWW}
+}
+
+@article{nagatomi2011complexity,
+  title={Complexity-reduced MLD based on QR decomposition in OFDM MIMO multiplexing with frequency domain spreading and code multiplexing},
+  author={Nagatomi, Kouji and Kawai, Hiroyuki and Higuchi, Kenichi},
+  journal={EURASIP Journal on Advances in Signal Processing},
+  volume={2011},
+  pages={5},
+  year={2011},
+  publisher={Hindawi Publishing Corp.}
+}
+
+@article{ivanov2010real,
+  title={Real-time h. 264 video encoding in software with fast mode decision and dynamic complexity control},
+  author={Ivanov, Yuri V and Bleakley, Chris J},
+  journal={ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},
+  volume={6},
+  number={1},
+  pages={5},
+  year={2010},
+  publisher={ACM}
+}
+
+@inproceedings{katzmarski2012program,
+  title={Program complexity metrics and programmer opinions},
+  author={Katzmarski, Bernhard and Koschke, Rainer},
+  booktitle={2012 20th IEEE International Conference on Program Comprehension (ICPC)},
+  pages={17--26},
+  year={2012},
+  organization={IEEE}
+}

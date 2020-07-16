@@ -1,0 +1,168 @@
+@article{li2016complexity,
+  title={Complexity Analysis of HM and JEM Encoder Software},
+  author={Li, Xiang and Wu, Xiangjian and Marzuki, Ismail and Ahn, Yong-Jo and Sim, Donggyu},
+  journal={한국방송미디어공학회 학술발표대회 논문집},
+  pages={313--315},
+  year={2016}
+}
+
+@article{piper2013investigation,
+  title={An Investigation of Basic and Borderline Proficient Students' Comprehension Reading Achievement Using the Read 180 Computerized Instructional Program.},
+  author={Piper, Deborah L},
+  journal={ProQuest LLC},
+  year={2013},
+  publisher={ERIC}
+}
+
+@article{nguyen2017impact,
+  title={The impact of software complexity on cost and quality-A comparative analysis between Open source and proprietary software},
+  author={Nguyen-Duc, Anh},
+  journal={arXiv preprint arXiv:1712.00675},
+  year={2017}
+}
+
+@article{orlov2017ambient,
+  title={Ambient and Focal Attention During Source-code Comprehension},
+  author={Orlov, Pavel A},
+  journal={FACHBEREICH MATHEMATIK UND INFORMATIK SERIE B INFORMATIK},
+  pages={12},
+  year={2017}
+}
+
+@inproceedings{ashish2011improved,
+  title={An Improved SRS Document Based Software Complexity Estimation and Its Robustness Analysis},
+  author={Ashish, Sharma and Kushwaha, DS},
+  booktitle={International Conference on Advances in Communication, Network, and Computing},
+  pages={111--117},
+  year={2011},
+  organization={Springer}
+}
+
+@misc{persson2015correlation,
+  title={The correlation between code coverage, cyclomatic complexity and fault frequency},
+  author={Persson, Simon},
+  year={2015}
+}
+
+@book{bush2014investigation,
+  title={An investigation of the effects of a computer-assisted reading program on the oral reading fluency and comprehension of elementary students},
+  author={Bush, Margaret C},
+  year={2014},
+  publisher={Mississippi State University}
+}
+
+@inproceedings{peng2013program,
+  title={The program download problem: complexity and algorithms},
+  author={Peng, Chao and Zhou, Jie and Zhu, Binhai and Zhu, Hong},
+  booktitle={International Computing and Combinatorics Conference},
+  pages={688--696},
+  year={2013},
+  organization={Springer}
+}
+
+@phdthesis{alhindawi2013supporting,
+  title={Supporting Source Code Comprehension During Software Evolution and Maintenance},
+  author={Alhindawi, Nouh Talal},
+  year={2013},
+  school={Kent State University}
+}
+
+@inproceedings{amjad2015framework,
+  title={A framework for enhancing readability and opportunistic reuse of enterprise software},
+  author={Amjad, Syed Awais and Khan, Shoab A},
+  booktitle={2015 6th IEEE International Conference on Software Engineering and Service Science (ICSESS)},
+  pages={48--53},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{singh2016analysis,
+  title={The analysis of software metrics for design complexity and its impact on reusability},
+  author={Singh, Aditya Pratap and Tomar, Pradeep},
+  booktitle={2016 3rd International Conference on Computing for Sustainable Global Development (INDIACom)},
+  pages={3808--3812},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{o2011automatic,
+  title={Automatic FFT code generation for FPGAs with high flexibility and human readability},
+  author={O'Sullivan, John and Weiss, Stephan and Rice, Garrey},
+  booktitle={2011 Conference Record of the Forty Fifth Asilomar Conference on Signals, Systems and Computers (ASILOMAR)},
+  pages={2197--2201},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{zarnowiecki2018australian,
+  title={The Australian Nurse-Family Partnership Program for aboriginal mothers and babies: Describing client complexity and implications for program delivery},
+  author={Zarnowiecki, Dorota and Nguyen, Ha and Hampton, Catherine and Boffa, John and Segal, Leonie},
+  journal={Midwifery},
+  volume={65},
+  pages={72--81},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{giezen2015semantic,
+  title={Semantic integration and age of acquisition effects in code-blend comprehension},
+  author={Giezen, Marcel R and Emmorey, Karen},
+  journal={Journal of deaf studies and deaf education},
+  volume={21},
+  number={2},
+  pages={213--221},
+  year={2015},
+  publisher={Oxford University Press US}
+}
+
+@inproceedings{dvir2018mutual,
+  title={Mutual exclusion algorithms with constant RMR complexity and wait-free exit code},
+  author={Dvir, Rotem and Taubenfeld, Gadi},
+  booktitle={21st International Conference on Principles of Distributed Systems (OPODIS 2017)},
+  year={2018},
+  organization={Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik}
+}
+
+@inproceedings{sampaio2016software,
+  title={Software readability practices and the importance of their teaching},
+  author={Sampaio, Isabel Braga and Barbosa, Lu{\'\i}s},
+  booktitle={2016 7th International Conference on Information and Communication Systems (ICICS)},
+  pages={304--309},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{xu2017measurement,
+  title={Measurement of source code readability using word concreteness and memory retention of variable names},
+  author={Xu, Weifeng and Xu, Dianxiang and Deng, Lin},
+  booktitle={2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC)},
+  volume={1},
+  pages={33--38},
+  year={2017},
+  organization={IEEE}
+}
+
+@phdthesis{pucsek2013visualization,
+  title={Visualization and analysis of assembly code in an integrated comprehension environment},
+  author={Pucsek, Dean W},
+  year={2013}
+}
+
+@inproceedings{lim2015low,
+  title={Low-Complexity and High Performance SISO Decoding for Block Product Turbo Code (105, 44)},
+  author={Lim, Je Hun and Lee, Jun Ho and Shin, Min Su and Cho, Guk Han and Song, Young Joon},
+  booktitle={2015 8th International Conference on Control and Automation (CA)},
+  pages={13--16},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{baladwarakanath2015unique,
+  title={A Unique Technique to Handle the Complexity and Improve the Effectiveness of Test Cases in Software Testing},
+  author={Baladwarakanath, S and Vijay, K},
+  journal={Journal of Innovative Technology and Education},
+  volume={2},
+  number={1},
+  pages={29--35},
+  year={2015}
+}

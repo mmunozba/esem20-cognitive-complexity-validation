@@ -1,0 +1,185 @@
+@book{fan2010effects,
+  title={The effects of beacons, comments, and tasks on program comprehension process in software maintenance},
+  author={Fan, Quyin},
+  year={2010},
+  publisher={University of Maryland, Baltimore County}
+}
+
+@article{lawson2013appreciating,
+  title={Appreciating complexity, endemic tensions and selectivity in proposals for program improvement and new institutional designs},
+  author={Lawson, Hal A},
+  journal={Sport, Education and Society},
+  volume={18},
+  number={1},
+  pages={121--129},
+  year={2013},
+  publisher={Taylor \& Francis}
+}
+
+@article{wei2012effects,
+  title={The effects of visual cues and learners’ field dependence in multiple external representations environment for novice program comprehension},
+  author={Wei, Liew Tze and Sazilah, Salam},
+  journal={Journal of Interactive Learning Research},
+  volume={23},
+  number={2},
+  pages={165--189},
+  year={2012},
+  publisher={Association for the Advancement of Computing in Education (AACE)}
+}
+
+@article{borstler2016role,
+  title={The role of method chains and comments in software readability and comprehension—an experiment},
+  author={B{\"o}rstler, J{\"u}rgen and Paech, Barbara},
+  journal={IEEE Transactions on Software Engineering},
+  volume={42},
+  number={9},
+  pages={886--898},
+  year={2016},
+  publisher={IEEE}
+}
+
+@article{gui2011effects,
+  title={The Effects of School Type and Writing Proficiency on EFL Learners' Lexical Complexity Across Course Program Levels [J]},
+  author={Gui, BAO},
+  journal={Journal of PLA University of Foreign Languages},
+  volume={4},
+  year={2011}
+}
+
+@inproceedings{alsmadi2011improving,
+  title={Improving understandability in teaching of software engineering and connectivity with the industry},
+  author={Alsmadi, Izzat and Abul-Huda, Bilal},
+  booktitle={2011 IEEE Global Engineering Education Conference (EDUCON)},
+  pages={20--25},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{jabbar2011advanced,
+  title={Advanced program complexity metrics and measurement},
+  author={Jabbar, Abdul},
+  year={2011},
+  publisher={Citeseer}
+}
+
+@article{al2011effect,
+  title={The Effect of a Computerized Program on Developing 9th Graders' Reading Comprehension Skills and their Attitudes towards Reading in Palestine},
+  author={Al Udaini, Alaa Ali},
+  journal={The Effect of a Computerized Program on Developing 9th Graders' Reading Comprehension Skills and their Attitudes towards Reading in Palestine},
+  year={2011},
+  publisher={the islamic university}
+}
+
+@inproceedings{qu2012project,
+  title={Project complexity and knowledge transfer in global software outsourcing project teams: A transactive memory systems perspective},
+  author={Qu, Gang and Ji, Shaobo and Nsakanda, Aaron},
+  booktitle={2012 45th Hawaii International Conference on System Sciences},
+  pages={3776--3785},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{antinyan2017evaluating,
+  title={Evaluating code complexity triggers, use of complexity measures and the influence of code complexity on maintenance time},
+  author={Antinyan, Vard and Staron, Miroslaw and Sandberg, Anna},
+  journal={Empirical Software Engineering},
+  volume={22},
+  number={6},
+  pages={3057--3087},
+  year={2017},
+  publisher={Springer}
+}
+
+@inproceedings{solichah2013exploration,
+  title={Exploration on software complexity metrics for business process model and notation},
+  author={Solichah, Iis and Hamilton, Margaret and Mursanto, Petrus and Ryan, Caspar and Perepletchikov, Mikhail},
+  booktitle={2013 International Conference on Advanced Computer Science and Information Systems (ICACSIS)},
+  pages={31--37},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{montazeri2010design,
+  title={Design and performance analysis of a low complexity digital clock recovery algorithm for software-defined radio applications},
+  author={Montazeri, Ali and Kiasaleh, Kamran},
+  journal={IEEE Transactions on Consumer Electronics},
+  volume={56},
+  number={3},
+  pages={1258--1263},
+  year={2010},
+  publisher={IEEE}
+}
+
+@inproceedings{chaturvedi2013empirical,
+  title={An empirical validation of the complexity of code changes and bugs in predicting the release time of open source software},
+  author={Chaturvedi, KK and Bedi, Punam and Misra, Sanjay and Singh, VB},
+  booktitle={2013 IEEE 16th International Conference on Computational Science and Engineering},
+  pages={1201--1206},
+  year={2013},
+  organization={IEEE}
+}
+
+@book{fittkau2015live,
+  title={Live trace visualization for system and program comprehension in large software landscapes},
+  author={Fittkau, Florian},
+  year={2015},
+  publisher={BoD--Books on Demand}
+}
+
+@inproceedings{serrano2016galexia,
+  title={Galexia: Evidence-based software for intervention in reading fluency and comprehension},
+  author={Serrano, F and S{\'a}nchez, JF Bravo and Olmedo, M G{\'o}mez},
+  booktitle={INTED2016 Proceedings},
+  pages={2001--2007},
+  year={2016},
+  organization={IATED}
+}
+
+@article{chhillar2011establishing,
+  title={Establishing relationship between complexity and faults for object-oriented software systems},
+  author={Chhillar, Usha and Bhasin, Sucheta},
+  journal={International Journal of Computer Science Issues (IJCSI)},
+  volume={8},
+  number={5},
+  pages={437},
+  year={2011},
+  publisher={Citeseer}
+}
+
+@article{raghebian2012examination,
+  title={AN EXAMINATION OF THE EFFECTIVENESS OF A PROGRAM BASED ON COMBINING QUESTIONING THE AUTHOR AND TRIARCHIC READING COMPREHENSION APPROACHES IN IMPROVING THE STUDENTS'READING COMPREHENSION},
+  author={Raghebian, R and AKHAVAN, TAFTI M and Hejazi, E},
+  year={2012},
+  publisher={JOURNAL OF SCHOOL PSYCHOLOGY}
+}
+
+@inproceedings{keen2015program,
+  title={Program decomposition and complexity in CS1},
+  author={Keen, Aaron and Mammen, Kurt},
+  booktitle={Proceedings of the 46th ACM Technical Symposium on Computer Science Education},
+  pages={48--53},
+  year={2015},
+  organization={ACM}
+}
+
+@article{hosseini2014comprehensive,
+  title={Comprehensive study on a 2$\times$ 2 full-rate and linear decoding complexity space--time block code},
+  author={Hosseini, Seyyed Saleh and Talebi, Siamak and Abouei, Jamshid},
+  journal={IET Communications},
+  volume={9},
+  number={1},
+  pages={122--132},
+  year={2014},
+  publisher={IET}
+}
+
+@article{selent2011design,
+  title={The design and complexity analysis of the light-up puzzle program: faculty poster},
+  author={Selent, Douglas},
+  journal={Journal of Computing Sciences in Colleges},
+  volume={26},
+  number={6},
+  pages={187--189},
+  year={2011},
+  publisher={Consortium for Computing Sciences in Colleges}
+}

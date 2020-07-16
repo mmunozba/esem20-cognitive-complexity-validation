@@ -1,0 +1,179 @@
+@inproceedings{armaly2016empirical,
+  title={An empirical study of blindness and program comprehension},
+  author={Armaly, Ameer},
+  booktitle={2016 IEEE/ACM 38th International Conference on Software Engineering Companion (ICSE-C)},
+  pages={683--685},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{hassan2012evaluation,
+  title={Evaluation of complexity versus performance for turbo code and LDPC under different code rates},
+  author={Hassan, Alaa Eldin S and Dessouky, Moawad and Elazm, Atef Abou and Shokair, Mona},
+  booktitle={Proc. SPACOMM 2012: The fourth international conference on advances in satellite and space communication},
+  pages={93--98},
+  year={2012}
+}
+
+@inproceedings{abouzeid2017efiicient,
+  title={Ef{\"\i}icient and low-complexity space time code for massive MIMO RFID systems},
+  author={Abouzeid, Mohamed S and Lopacinski, Lukasz and Grass, Eckhard and Kaiser, Thomas and Kraemer, Rolf},
+  booktitle={2017 12th Iberian Conference on Information Systems and Technologies (CISTI)},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{alias2013rank,
+  title={Rank: A Tool to Check Program Termination and Computational Complexity.},
+  author={Alias, Christophe and Darte, Alain and Feautrier, Paul and Gonnord, Laure},
+  booktitle={ICST Workshops},
+  pages={238},
+  year={2013}
+}
+
+@article{au2017joint,
+  title={A joint code-frequency index modulation for low-complexity, high spectral and energy efficiency communications},
+  author={Au, Minh and Kaddoum, Georges and Gagnon, Francois and Soujeri, Ebrahim},
+  journal={arXiv preprint arXiv:1712.07951},
+  year={2017}
+}
+
+@article{alhindawi2014survey,
+  title={A survey of concepts location enhancement for program comprehension and maintenance},
+  author={Alhindawi, Nouh and Alsakran, Jamal and Rodan, Ali and Faris, Hossam},
+  journal={Journal of Software Engineering and Applications},
+  volume={7},
+  number={05},
+  pages={413},
+  year={2014},
+  publisher={Scientific Research Publishing}
+}
+
+@inproceedings{scanniello2013early,
+  title={An early investigation on the contribution of class and sequence diagrams in source code comprehension},
+  author={Scanniello, Giuseppe and Gravino, Carmine and Tortora, Genoveffa},
+  booktitle={2013 17th European Conference on Software Maintenance and Reengineering},
+  pages={367--370},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{ginat2011transfer,
+  title={Transfer, cognitive load, and program design difficulties},
+  author={Ginat, David and Shifroni, Eyal and Menashe, Eti},
+  booktitle={International Conference on Informatics in Schools: Situation, Evolution, and Perspectives},
+  pages={165--176},
+  year={2011},
+  organization={Springer}
+}
+
+@inproceedings{singh2016case,
+  title={A case study of program comprehension effort and technical debt estimations},
+  author={Singh, Vallary and Pollock, Lori L and Snipes, Will and Kraft, Nicholas A},
+  booktitle={2016 IEEE 24th International Conference on Program Comprehension (ICPC)},
+  pages={1--9},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{jakupovic2010application,
+  title={Application of analytic hierarchy process (AHP) to measure the complexity of the business sector and business software},
+  author={Jakupovic, Alen and Pavlic, Mile and Candrlic, Sanja},
+  booktitle={Proceedings of the Third C* Conference on Computer Science and Software Engineering},
+  pages={35--42},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{rathod2012efficient,
+  title={An efficient algorithm for irregular Low density Parity Check code with reduced computational complexity and error floor},
+  author={Rathod, Devichand P and Awale, Raval N},
+  booktitle={2012 International Conference on Communication, Information \& Computing Technology (ICCICT)},
+  pages={1--4},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{peitek2018toward,
+  title={Toward conjoint analysis of simultaneous eye-tracking and fMRI data for program-comprehension studies},
+  author={Peitek, Norman and Siegmund, Janet and Parnin, Chris and Apel, Sven and Brechmann, Andr{\'e}},
+  booktitle={Proceedings of the Workshop on Eye Movements in Programming},
+  pages={1},
+  year={2018},
+  organization={ACM}
+}
+
+@article{hirama2016software,
+  title={Software complexity analysis based on shannon entropy theory and C\&K metrics},
+  author={Hirama, Kechi},
+  journal={IEEE Latin America Transactions},
+  volume={14},
+  number={5},
+  pages={2485--2490},
+  year={2016},
+  publisher={IEEE}
+}
+
+@article{kumar2013performance,
+  title={Performance evaluation and complexity analysis of re-jagged AR4JA code over AWGN channel},
+  author={Kumar, Abhishek and Mishra, Madhusmita and Patra, Sarat Kumar},
+  journal={Int. J. Sci. Eng. Res.},
+  volume={4},
+  pages={2359--2362},
+  year={2013}
+}
+
+@inproceedings{peitek2018simultaneous,
+  title={Simultaneous measurement of program comprehension with fMRI and eye tracking: a case study},
+  author={Peitek, Norman and Siegmund, Janet and Parnin, Chris and Apel, Sven and Hofmeister, Johannes C and Brechmann, Andr{\'e}},
+  booktitle={Proceedings of the 12th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM'18)},
+  year={2018}
+}
+
+@inproceedings{roehm2015two,
+  title={Two user perspectives in program comprehension: end users and developer users},
+  author={Roehm, Tobias},
+  booktitle={2015 IEEE 23rd International Conference on Program Comprehension},
+  pages={129--139},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{singh2014prediction,
+  title={Prediction of the complexity of code changes based on number of open bugs, new feature and feature improvement},
+  author={Singh, VB and Sharma, Meera},
+  booktitle={2014 IEEE International Symposium on Software Reliability Engineering Workshops},
+  pages={478--483},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{dickin2015cognitive,
+  title={Cognitive interviewing to enhance comprehension and accuracy of responses to a Spanish-language nutrition program evaluation tool},
+  author={Dickin, Katherine L and Larios, Flor and Parra, Pilar A},
+  journal={Journal of nutrition education and behavior},
+  volume={47},
+  number={5},
+  pages={465--471},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@inproceedings{lessa2015multiple,
+  title={A multiple view interactive environment to support MATLAB and GNU/Octave program comprehension},
+  author={Lessa, Ivan de M and Carneiro, Glauco de F and Monteiro, Miguel Jorge TP and e Abreu, Fernando Brito},
+  booktitle={2015 12th International Conference on Information Technology-New Generations},
+  pages={552--557},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{stevanetic2014supporting,
+  title={Supporting software evolution by integrating DSL-based architectural abstraction and understandability related metrics},
+  author={Stevanetic, Srdjan and Haitzer, Thomas and Zdun, Uwe},
+  booktitle={Proceedings of the 2014 European Conference on Software Architecture Workshops},
+  pages={19},
+  year={2014},
+  organization={ACM}
+}

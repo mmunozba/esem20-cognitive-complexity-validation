@@ -1,0 +1,189 @@
+@inproceedings{scanniello2012does,
+  title={Does the combined use of class and sequence diagrams improve the source code comprehension?: results from a controlled experiment},
+  author={Scanniello, Giuseppe and Gravino, Carmine and Tortora, Genoveffa},
+  booktitle={Proceedings of the Second Edition of the International Workshop on Experiences and Empirical Studies in Software Modelling},
+  pages={4},
+  year={2012},
+  organization={ACM}
+}
+
+@article{kroff2018experimental,
+  title={Experimental contributions of eye-tracking to the understanding of comprehension processes while hearing and reading code-switches},
+  author={Kroff, Jorge R Vald{\'e}s and Tamargo, Rosa E Guzzardo and Dussias, Paola E},
+  journal={Linguistic Approaches to Bilingualism},
+  volume={8},
+  number={1},
+  pages={98--133},
+  year={2018},
+  publisher={John Benjamins}
+}
+
+@article{ferguson2015epistemic,
+  title={Epistemic beliefs and their relation to multiple-text comprehension: A Norwegian program of research},
+  author={Ferguson, Leila E},
+  journal={Scandinavian Journal of Educational Research},
+  volume={59},
+  number={6},
+  pages={731--752},
+  year={2015},
+  publisher={Taylor \& Francis}
+}
+
+@inproceedings{gao2011testing,
+  title={Testing Configurable Component-Based Software-Configuration Test Modeling and Complexity Analysis.},
+  author={Gao, Jerry and Guan, Jing and Ma, Alex and Tao, Chuanqi and Bai, Xiaoying and Kung, David Chenho},
+  booktitle={SEKE},
+  pages={495--502},
+  year={2011}
+}
+
+@phdthesis{goh2012study,
+  title={A study of lexical diversity, syntactic complexity and code-switching in spoken Mandarin of Chinese preschoolers in Singapore: A corpus-based analysis},
+  author={Goh, Hock Huan},
+  year={2012}
+}
+
+@article{sampson2013influence,
+  title={The influence of prior knowledge, university coursework, and field experience on primary preservice teachers' use of reading comprehension strategies in a year-long, field-based teacher education program},
+  author={Sampson, Mary Beth and Linek, Wayne M and Raine, I Laverne and Szabo, Susan},
+  journal={Literacy Research and Instruction},
+  volume={52},
+  number={4},
+  pages={281--311},
+  year={2013},
+  publisher={Taylor \& Francis}
+}
+
+@incollection{wongthongtham2011ontology,
+  title={An ontology-based method for measurement of transferability and complexity of knowledge in multi-site software development environment},
+  author={Wongthongtham, Pornpit and Kasisopha, Natsuda},
+  booktitle={Knowledge, Information, and Creativity Support Systems},
+  pages={238--252},
+  year={2011},
+  publisher={Springer}
+}
+
+@article{ahn2012statistical,
+  title={Statistical characteristics and complexity analysis of HEVC encoder software},
+  author={Ahn, Yongjo and Hwang, Taejin and Yoo, Sungeun and Han, Woo-Jin and Sim, Donggyu},
+  journal={Journal of Broadcast Engineering},
+  volume={17},
+  number={6},
+  pages={1091--1105},
+  year={2012},
+  publisher={The Korean Institute of Broadcast and Media Engineers}
+}
+
+@incollection{connor2012teachers,
+  title={Teachers’ use of Assessment to Instruction (A2i) software and third graders’ reading comprehension gains},
+  author={Connor, Carol McDonald and Fishman, Barry and Crowe, Elizabeth and Underwood, Phyllis and Schatschneider, Christopher and Morrison, Fredrick J},
+  booktitle={Technology as a support for literacy achievements for children at risk},
+  pages={123--139},
+  year={2012},
+  publisher={Springer}
+}
+
+@inproceedings{dinneen2012program,
+  title={A program-size complexity measure for mathematical problems and conjectures},
+  author={Dinneen, Michael J},
+  booktitle={International Conference on Teaching and Computational Science},
+  pages={81--93},
+  year={2012},
+  organization={Springer}
+}
+
+@article{ahmed2015enhancing,
+  title={Enhancing elementary level EFL students’ reading comprehension and writing skills through extensive reading enrichment program},
+  author={Ahmed, Rania Adel Ibrahim and Rajab, Hussam},
+  journal={International Journal of English Language Education},
+  volume={3},
+  number={2},
+  pages={2015},
+  year={2015}
+}
+
+@inproceedings{waterman2013effect,
+  title={The effect of complexity and value on architecture planning in agile software development},
+  author={Waterman, Michael and Noble, James and Allan, George},
+  booktitle={International Conference on Agile Software Development},
+  pages={238--252},
+  year={2013},
+  organization={Springer}
+}
+
+@article{hubball2010grappling,
+  title={Grappling with the complexity of undergraduate degree program reform: Critical barriers and emergent strategies},
+  author={Hubball, HT and Pearson, M},
+  journal={Transformative Dialogues},
+  volume={3},
+  number={3},
+  year={2010}
+}
+
+@article{jakhar2014measuring,
+  title={Measuring complexity, development time and understandability of a program: A cognitive approach},
+  author={Jakhar, Amit Kumar and Rajnish, Kumar},
+  journal={Int. J. Inform. Tech. Comput. Sci},
+  volume={6},
+  pages={53--60},
+  year={2014}
+}
+
+@article{jakubisin2015performance,
+  title={Performance, complexity, and receiver design for code-aided frame synchronization in multipath channels},
+  author={Jakubisin, Daniel J and Buehrer, R Michael},
+  journal={IEEE Transactions on Communications},
+  volume={63},
+  number={9},
+  pages={3363--3376},
+  year={2015},
+  publisher={IEEE}
+}
+
+@book{curlee2013successful,
+  title={Successful program management: Complexity theory, communication, and leadership},
+  author={Curlee, Wanda and Gordon, Robert Lee},
+  year={2013},
+  publisher={Auerbach Publications}
+}
+
+@article{tanaka2014toward,
+  title={Toward project and program management paradigm in the space of complexity: a case study of mega and complex oil and gas development and infrastructure projects},
+  author={Tanaka, Hiroshi},
+  journal={Procedia-Social and Behavioral Sciences},
+  volume={119},
+  pages={65--74},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{guclu2016using,
+  title={Using text to speech software in teaching Turkish for foreigners: The effects of text to speech software on reading and comprehension abilities of African students},
+  author={GUCLU, Bekir and Sinan, IGIT},
+  journal={Journal in Humanities},
+  volume={4},
+  number={2},
+  pages={31--33},
+  year={2016}
+}
+
+@article{wang2013joint,
+  title={Joint timing and channel estimation for bandlimited long-code-based MC-DS-CDMA: A low-complexity near-optimal algorithm and the CRLB},
+  author={Wang, Shuai and Chen, Sheng and Wang, Aihua and An, Jianping and Hanzo, Lajos},
+  journal={IEEE Transactions on Communications},
+  volume={61},
+  number={5},
+  pages={1998--2011},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{thalmann2014complexity,
+  title={Complexity is dead, long live complexity! How software can help service providers manage security and compliance},
+  author={Thalmann, Stefan and Bachlechner, Daniel and Demetz, Lukas and Manhart, Markus},
+  journal={computers \& security},
+  volume={45},
+  pages={172--185},
+  year={2014},
+  publisher={Elsevier}
+}

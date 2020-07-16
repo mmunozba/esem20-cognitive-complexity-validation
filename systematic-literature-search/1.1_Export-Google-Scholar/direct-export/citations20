@@ -1,0 +1,179 @@
+@book{walkinshaw2017software,
+  title={Software Quality Assurance: Consistency in the Face of Complexity and Change},
+  author={Walkinshaw, Neil},
+  year={2017},
+  publisher={Springer}
+}
+
+@inproceedings{barleanu2011floating,
+  title={Floating-point to fixed-point code conversion with variable trade-off between computational complexity and accuracy loss},
+  author={B{\^a}rleanu, Alexandru and B{\u{a}}itoiu, Vadim and Stan, Andrei},
+  booktitle={15th International Conference on System Theory, Control and Computing},
+  pages={1--6},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{kharaghani2015impact,
+  title={The impact of vocabulary knowledge on reading comprehension ability of Iranian English learners receiving reciprocal teaching and cooperative grouping intervention program},
+  author={Kharaghani, Naeemeh and Ghonsooly, Behzad},
+  journal={International Journal of Research Studies in Education},
+  volume={4},
+  year={2015}
+}
+
+@article{abdullah2018energy,
+  title={Energy optimized and low complexity 2-dimensional 4 Dot 2 electron flip-flop and quasi code generator in nanoscale},
+  author={Abdullah-Al-Shafi, Md and Bahar, Ali Newaz},
+  journal={Journal of Nanoelectronics and Optoelectronics},
+  volume={13},
+  number={6},
+  pages={856--863},
+  year={2018},
+  publisher={American Scientific Publishers}
+}
+
+@book{wlaschin2018domain,
+  title={Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F},
+  author={Wlaschin, Scott},
+  year={2018},
+  publisher={Pragmatic Bookshelf}
+}
+
+@phdthesis{collet2011taming,
+  title={Taming Complexity of Large Software Systems: Contracting, Self-Adaptation and Feature Modeling},
+  author={Collet, Philippe},
+  year={2011},
+  school={Universit{\'e} Nice Sophia Antipolis}
+}
+
+@article{kosar2018program,
+  title={Program comprehension of domain-specific and general-purpose languages: replication of a family of experiments using integrated development environments},
+  author={Kosar, Toma{\v{z}} and Gaberc, Sa{\v{s}}o and Carver, Jeffrey C and Mernik, Marjan},
+  journal={Empirical Software Engineering},
+  volume={23},
+  number={5},
+  pages={2734--2763},
+  year={2018},
+  publisher={Springer}
+}
+
+@article{di2016complexity,
+  title={Complexity in redesigning depression care: comparing intention versus implementation of an automated depression screening and monitoring program},
+  author={Di Capua, Paul and Wu, Brian and Sednew, Renee and Ryan, Gery and Wu, Shinyi},
+  journal={Population health management},
+  volume={19},
+  number={5},
+  pages={349--356},
+  year={2016},
+  publisher={Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA}
+}
+
+@inproceedings{roberts2010effectiveness,
+  title={Effectiveness of text-to-speech software features for improving vocabulary, reading comprehension, and reading rate of culturally diverse high school students in Hawai’i},
+  author={Roberts, Kelly and Park, Hye Jin and Takahashi, Kiriko},
+  booktitle={Society for Information Technology \& Teacher Education International Conference},
+  pages={1606--1611},
+  year={2010},
+  organization={Association for the Advancement of Computing in Education (AACE)}
+}
+
+@phdthesis{keyes2010effects,
+  title={The effects of a computer-assisted reading program on the oral reading fluency, comprehension, and generalization of at-risk, urban second-grade students},
+  author={Keyes, Starr E},
+  year={2010},
+  school={The Ohio State University}
+}
+
+@article{thiel2017promoting,
+  title={Promoting linguistic complexity, greater message length and ease of engagement in email writing in people with aphasia: initial evidence from a study utilizing assistive writing software},
+  author={Thiel, Lindsey and Sage, Karen and Conroy, Paul},
+  journal={International journal of language \& communication disorders},
+  volume={52},
+  number={1},
+  pages={106--124},
+  year={2017},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{ostberg2011increasing,
+  title={Increasing flexibility and abstracting complexity in service-based grid and cloud software},
+  author={{\"O}stberg, Per-Olov and Elmroth, Erik},
+  booktitle={CLOSER 2011},
+  pages={240--249},
+  year={2011},
+  organization={SciTePress}
+}
+
+@article{jakhar2016cognitive,
+  title={A cognitive measurement of Complexity and Comprehension for Object-oriented Code},
+  author={Jakhar, Amit Kumar and Rajnish, Kumar},
+  journal={World Academy of Science, Engineering and Technology, International Journal of Computer, Electrical, Automation, Control and Information Engineering},
+  volume={10},
+  number={3},
+  pages={621--628},
+  year={2016}
+}
+
+@inproceedings{pleszkoch2015controlling,
+  title={Controlling combinatorial complexity in software and malware behavior computation},
+  author={Pleszkoch, Mark and Linger, Rick},
+  booktitle={Proceedings of the 10th Annual Cyber and Information Security Research Conference},
+  pages={15},
+  year={2015},
+  organization={ACM}
+}
+
+@article{antinyan2014monitoring,
+  title={Monitoring evolution of code complexity and magnitude of changes},
+  author={Antinyan, Vard},
+  journal={Acta Cybernetica},
+  volume={21},
+  number={3},
+  pages={367--382},
+  year={2014}
+}
+
+@article{smith2010pattern,
+  title={The Pattern Instance Notation: A Simple Hierarchical Visual Notation for the Dynamic Visualization and Comprehension of Software Patterns},
+  author={Smith, Jason McColm},
+  journal={Electronic Communications of the EASST},
+  volume={25},
+  year={2010}
+}
+
+@incollection{lavania2015genetic,
+  title={Genetic algorithms-fuzzy based trade-off adjustment between software complexity and deliverability},
+  author={Lavania, Siddharth and Darbari, Manuj and Ahuja, Neelu J and Siddqui, Imran Ali},
+  booktitle={New Trends in Networking, Computing, E-learning, Systems Sciences, and Engineering},
+  pages={15--18},
+  year={2015},
+  publisher={Springer}
+}
+
+@inproceedings{simons2014using,
+  title={Using evolutionary computation to shed light on the effect of scale and complexity on object-oriented software design},
+  author={Simons, Christopher L and Smith, Jim},
+  booktitle={2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  pages={441--446},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{dasgupta2010not,
+  title={That is not my program: Investigating the relation between program comprehension and program authorship},
+  author={Dasgupta, Chandan},
+  booktitle={Proceedings of the 48th Annual Southeast Regional Conference},
+  pages={103},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{maciaszek2015confluent,
+  title={Confluent factors, complexity and resultant architectures in modern software engineering: a case of service cloud applications},
+  author={Maciaszek, Leszek A and Skalniak, Tomasz},
+  booktitle={5th International Symposium on Business Modeling and Software Design, BMSD 2015},
+  pages={37--45},
+  year={2015},
+  organization={SciTePress}
+}

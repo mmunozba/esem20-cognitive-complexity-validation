@@ -1,0 +1,137 @@
+@article{wang2016android,
+  title={An Android studio plugin for calculating and measuring code complexity metrics in Android applications},
+  author={Wang, Bo},
+  year={2016}
+}
+
+@inproceedings{lartigue2018comprehension,
+  title={Comprehension and application of design patterns by novice software engineers: an empirical study of undergraduate software engineering and computer science students},
+  author={Lartigue, Jonathan W and Chapman, Richard},
+  booktitle={Proceedings of the ACMSE 2018 Conference},
+  pages={24},
+  year={2018},
+  organization={ACM}
+}
+
+@article{kaulcomparative,
+  title={A COMPARATIVE STUDY OF VARIOUS SOFTWARE DEVELOPMENT METHODS AND THE SOFTWARE METRICS USED TO MEASURE THE COMPLEXITY OF THE SOFTWARE},
+  author={Kaul, Pooja and Kaul, Tushar}
+}
+
+@misc{duc2010impact,
+  title={The impact of design complexity on software cost and quality},
+  author={Duc, Anh Nguyen},
+  year={2010}
+}
+
+@article{monica2012preface,
+  title={Preface to AI Approaches to the Complexity of Legal Systems. Models and Ethical Challenges for Legal Systems, Legal Language and Legal Ontologies, Argumentation and Software Agents},
+  author={Monica, Palmirani and Pagallo, Ugo and Pompeu, Casanovas and Giovanni, Sartor and others},
+  year={2012},
+  publisher={Springer}
+}
+
+@phdthesis{soh2015improving,
+  title={Improving Program Comprehension and Recommendation Systems Using Developers' Context},
+  author={Soh, Z{\'e}phyrin},
+  year={2015},
+  school={{\'E}cole Polytechnique de Montr{\'e}al}
+}
+
+@phdthesis{wichmann2017structural,
+  title={Structural and differential analysis for program comprehension of executables},
+  author={Wichmann, Arne},
+  year={2017}
+}
+
+@article{ren2015comprehension,
+  title={Comprehension of crystal symmetry and symmetric operation based on the CrysalMaker software},
+  author={REN, Ruo-jing and CHEN, Qiao and PENG, Yu and SHI, Hong-long},
+  journal={College Physics},
+  number={9},
+  pages={16},
+  year={2015}
+}
+
+@article{marchand2015using,
+  title={Using the Raz-Kids reading program to increase reading comprehension and fluency for students with LD},
+  author={Marchand, Angela},
+  year={2015}
+}
+
+@book{ruengmee2010designing,
+  title={Designing and evaluating a tool to support program comprehension and evolution in AOSD},
+  author={Ruengmee, Wiwat},
+  year={2010},
+  publisher={University of California, Irvine}
+}
+
+@article{chidambaramprogram,
+  title={Program Analysis Techniques for Algorithmic Complexity and Relational Properties},
+  author={Chidambaram, Vijay}
+}
+
+@article{von2019initial,
+  title={Initial clinical outcomes and prognostic variables in the implementation of a Code Sepsis in a high complexity University Hospital},
+  author={von Wernitz, Andr{\'e}s and Hern{\'a}ndez-Aceituno, Ana and S{\'a}ez, Carmen and Carde{\~n}oso, Laura and Martin, Elena and Garc{\'\i}a-V{\'a}zquez, Nieves and de las Cuevas, Carmen and Pascual, Natalia and Bautista, Azucena and Jim{\'e}nez10, David and others},
+  year={2019}
+}
+
+@misc{johannsen2018progressive,
+  title={Progressive Web Applications and Code Complexity: An analysis of the added complexity of making a web application progressive},
+  author={Johannsen, Fabian},
+  year={2018}
+}
+
+@article{kwon2011high,
+  title={High-Speed and Low-Complexity Decoding Architecture for Double Binary Turbo Code},
+  author={Kwon, Kon-Woo and Baek, Kwang-Hyun and Lee, Jeong Woo},
+  journal={IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences},
+  volume={94},
+  number={11},
+  pages={2458--2461},
+  year={2011},
+  publisher={The Institute of Electronics, Information and Communication Engineers}
+}
+
+@misc{mostafa2013tool,
+  title={A Tool for Analyzing the Correlation between Code Complexity and Faults Detected},
+  author={Mostafa, Seraj Al Mahmud},
+  year={2013}
+}
+
+@article{al2016effectiveness,
+  title={The effectiveness of instructional software in reading comprehension skills and reading aloud of Omani fourth basic schools’ students},
+  author={Al Musawi, Ali and Kazem, Ali Mahdi and Al Hashmi, Abdullah and Al Busaidi, Fatima},
+  journal={Technology, Innovation and Education},
+  volume={2},
+  number={1},
+  pages={12},
+  year={2016},
+  publisher={Springer}
+}
+
+@book{mancillas2015effects,
+  title={The Effects of a Reading Program on Student Reading Comprehension and Engagement},
+  author={Mancillas, Ivon I},
+  year={2015},
+  publisher={Saint Mary's College of California}
+}
+
+@article{elenhancing,
+  title={Enhancing EFL Secondary Stage Students' Listening and Reading Comprehension Skills through a CALL Program},
+  author={El-Sayed, Mohammed Mohammed and Samea, Aly Abd and Qoura, Asso and El-Hadidy, Mervat Mohamed Saleh}
+}
+
+@article{campbell2017improving,
+  title={Improving Literacy And Reading Comprehension Through Music Instruction In An El Sistema-Inspired Violin Program},
+  author={Campbell, Teresa},
+  year={2017}
+}
+
+@book{ye2012immanants,
+  title={Immanants, tensor network states and the geometric complexity theory program},
+  author={Ye, Ke},
+  year={2012},
+  publisher={Texas A \& M University}
+}

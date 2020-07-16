@@ -1,0 +1,162 @@
+@book{joseph2011comparison,
+  title={Comparison of Houghton Mifflin Core Reading Program and Corrective Reading Program Effects on English Language Learners' Reading Fluency and Comprehension in Grades 4-6.},
+  author={Joseph, Kelly C},
+  year={2011},
+  publisher={ERIC}
+}
+
+@article{galster2018variability,
+  title={Variability and Complexity in Software Design: Towards Quality through Modeling and Testing},
+  author={Galster, Matthias and Weyns, Danny and Goedicke, Michael and Zdun, Uwe and Cunha, J{\'a}come and Chavarriaga, Jaime},
+  journal={ACM SIGSOFT Software Engineering Notes},
+  volume={42},
+  number={4},
+  pages={35--37},
+  year={2018},
+  publisher={ACM}
+}
+
+@article{nyasente2014note,
+  title={A Note on Complexity and Understandability as Attributes for Assessing the Reusability of Software Components},
+  author={Nyasente, SO and Mwangi, Waweru and Kimani, Stephen},
+  journal={IJISET-International Journal of Innovative Science, Engineering \& Technology},
+  volume={1},
+  number={6},
+  pages={128--131},
+  year={2014}
+}
+
+@inproceedings{botterweck2017mastering,
+  title={Mastering Scale and Complexity in Software Reuse},
+  author={Botterweck, Goetz and Werner, Claudia},
+  booktitle={16th International Conference on Software Reuse, ICSR 2017},
+  year={2017},
+  organization={Springer}
+}
+
+@article{guizhi2012research,
+  title={The Research on the Software Product Design Based on TRIZ Evolution and Complexity},
+  author={Guizhi, Lu},
+  journal={Electronic Technology},
+  volume={7},
+  year={2012}
+}
+
+@article{ryan2012gradual,
+  title={The Gradual Increase in Length and Complexity of Utterance Program},
+  author={Ryan, Bruce},
+  journal={The Science and Practice of Stuttering Treatment},
+  pages={221--231},
+  year={2012},
+  publisher={Wiley Online Library}
+}
+
+@article{jakhar2015measurement,
+  title={MEasurement of complexity and comprehension of a program through a cognitive approach},
+  author={Jakhar, AK and Rajnish, K},
+  journal={International Journal of Engineering-Transactions B: Applications},
+  volume={28},
+  number={11},
+  pages={1579--1588},
+  year={2015}
+}
+
+@article{coleman2014comparing,
+  title={Comparing the Impact of Rates of Text-to-Speech Software on Reading Fluency and Comprehension for Adults with Reading Difficulties.},
+  author={Coleman, Mari Beth and Killdare, Laura K and Bell, Sherry Mee and Carter, Amanda M},
+  journal={Learning Disabilities: A Multidisciplinary Journal},
+  volume={20},
+  number={2},
+  pages={87--97},
+  year={2014},
+  publisher={ERIC}
+}
+
+@article{stehura2013managing,
+  title={Managing complexity in the MSL/Curiosity entry, descent, and landing flight software and avionics verification and validation campaign},
+  author={Stehura, Aaron and Rozek, Matthew},
+  year={2013},
+  publisher={Pasadena, CA: Jet Propulsion Laboratory, National Aeronautics and Space~…}
+}
+
+@phdthesis{wijaya2013extensive,
+  title={Extensive Reading Program: Its Impacts on Students’ Vocabulary Size and Reading Comprehension},
+  author={Wijaya, Henny Putri Saking},
+  year={2013},
+  school={Doctoral dissertation, Petra Christian University}
+}
+
+@article{albrici2016code,
+  title={Code and Inference in metaphor comprehension: interpretation of metaphorical language in Dante's Inferno by Italians and Australians},
+  author={Albrici, Sara},
+  year={2016}
+}
+
+@article{makhoul2015let,
+  title={Let's Read Together": A Balanced Computer Assisted Intervention Program and Its Effect on Comprehension amongst at Linguistic Risk Arab First Graders},
+  author={Makhoul, Baha and Olshtain, Elite and Ibrahim, Raphiq and others},
+  journal={Journal of Advances in Linguistics},
+  volume={5},
+  number={2},
+  pages={626--645},
+  year={2015}
+}
+
+@article{stretton2017complication,
+  title={Complication, complexity and uncertainty in the program/project context},
+  author={Stretton, Alan},
+  journal={PM World Journal},
+  volume={6},
+  year={2017}
+}
+
+@article{pomorova2011intelligence,
+  title={The intelligence system of software complexity and quality evaluation and prediction},
+  author={Pomorova, Oksana and Hovorushchenko, TO},
+  year={2011},
+  publisher={НАУ" ХАІ"}
+}
+
+@article{jyothi2011integrated,
+  title={An integrated approach for measuring software quality and code readability.},
+  author={Jyothi, G and Babu, Ch Veera},
+  journal={International Journal of Internet Computing},
+  volume={1},
+  number={2},
+  pages={57--60},
+  year={2011}
+}
+
+@techreport{sheard2014complexity,
+  title={Complexity, Systems, and Software},
+  author={Sheard, Sarah A},
+  year={2014},
+  institution={CARNEGIE-MELLON UNIV PITTSBURGH PA SOFTWARE ENGINEERING INST}
+}
+
+@inproceedings{abouzeid2018robust,
+  title={Robust and low-complexity space time code for industrial automation},
+  author={Abouzeid, Mohamed and Ehrig, Marcus and Odhah, Najib and Grass, Eckhard and Kraemer, Rolf},
+  booktitle={10th International Conference on Advanced Infocomm Technology (ICAIT), Sweden},
+  year={2018}
+}
+
+@article{hofmeister2017comparing,
+  title={Comparing novice and expert eye movements during program comprehension},
+  author={Hofmeister, Johannes and Bauer, Jennifer and Siegmund, Janet and Apel, Sven and Peitek, Norman},
+  journal={FACHBEREICH MATHEMATIK UND INFORMATIK SERIE B INFORMATIK},
+  volume={17},
+  year={2017}
+}
+
+@inproceedings{banitaan15test,
+  title={Test Case Selection using Software Complexity and Volume Metrics},
+  author={Banitaan, Shadi and Daimi, Kevin and Wang, Yujun and Akour, Mohammed},
+  booktitle={24th International Conference on Software Engineering and Data Engineering, SEDE’15}
+}
+
+@article{weinhold2014reducing,
+  title={Reducing size and complexity of the security-critical code base of file systems},
+  author={Weinhold, Carsten},
+  year={2014}
+}

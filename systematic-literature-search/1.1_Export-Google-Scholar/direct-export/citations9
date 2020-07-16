@@ -1,0 +1,148 @@
+@article{oliveiragrowing,
+  title={The growing level of aircraft systems complexity and software investigation},
+  author={Oliveira Filho, Paulo Soares}
+}
+
+@article{knopbranching,
+  title={Branching Program Complexity of Canonical Search Problems and Proof Complexity of Formulas},
+  author={Knop, Alexander}
+}
+
+@inproceedings{singh2017complexity,
+  title={Complexity of the Code Changes and Issues Dependent Approach to Determine the Release Time of Software Product},
+  author={Singh, VB and Chaturvedi, KK and Khatri, Sujata and Sharma, Meera},
+  booktitle={International Conference on Computational Science and Its Applications},
+  pages={519--529},
+  year={2017},
+  organization={Springer}
+}
+
+@article{vishala2018code,
+  title={Code Structure And Decoding Complexity For Double And Tripple-Adjacent Error Correcting Parallel Decoder},
+  author={VISHALA, P and KUMAR, B RANJITH},
+  journal={International Journal of Research},
+  volume={5},
+  number={7},
+  pages={1664--1670},
+  year={2018}
+}
+
+@inproceedings{che2017proposal,
+  title={Proposal of cost-efficient and low-complexity platform for software defined visible light communication},
+  author={Che, Ming and Kuboki, Takeshi and Kato, Kazutoshi},
+  booktitle={2017 22nd Microoptics Conference (MOC)},
+  pages={330--331},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{vahidovhuman,
+  title={Human-Software Agent Negotiation: Impact of Agents’ Tactics and Task Complexity on Human Behavior},
+  author={Vahidov, Rustam and Kersten, Gregory and Yu, Bo},
+  journal={HOHENHEIM DISCUSSION PAPERS IN BUSINESS, ECONOMICS AND SOCIAL SCIENCES},
+  pages={239}
+}
+
+@incollection{krupa2011patient,
+  title={Patient And Surrogate Comprehension Of Code Status Terminology In The Intensive Care Unit},
+  author={Krupa, Artur and Wilson, Michael E and Litell, John and Gajic, Ognjen and Kashani, Kianoush B},
+  booktitle={D103. END OF LIFE CARE},
+  pages={A6219--A6219},
+  year={2011},
+  publisher={American Thoracic Society}
+}
+
+@article{楊嘉晨2016structural,
+  title={Structural and Semantic Code Analysis for Program Comprehension},
+  author={楊嘉晨},
+  year={2016}
+}
+
+@article{fucci2019replication,
+  title={A Replication Study on Code Comprehension and Expertise using Lightweight Biometric Sensors},
+  author={Fucci, Davide and Girardi, Daniela and Novielli, Nicole and Quaranta, Luigi and Lanubile, Filippo},
+  journal={arXiv preprint arXiv:1903.03426},
+  year={2019}
+}
+
+@phdthesis{sahid2013facilitating,
+  title={Facilitating Novices' Program Comprehension in Program Slicing Via a Knowledge-based and Program Slicing Tool},
+  author={Sahid, Mohd Zanes},
+  year={2013},
+  school={Universiti Teknologi MARA}
+}
+
+@article{anand2018improved,
+  title={Improved scrum method through staging priority and cyclomatic complexity to enhance software process and quality},
+  author={Anand, R Vijay and Dinakaran, M},
+  journal={International Journal of Internet Technology and Secured Transactions},
+  volume={8},
+  number={2},
+  pages={150--166},
+  year={2018},
+  publisher={Inderscience Publishers (IEL)}
+}
+
+@article{singhnew,
+  title={A NEW REUSABILITY METRICS TO ESTIMATE COMPLEXITY AND PERFORMANCE OF COMPONENT-BASED SOFTWARE},
+  author={Singh, Aditya Pratap and Tomar, Pradeep}
+}
+
+@article{ermakov2011scaling,
+  title={Scaling from OOP to SOA and enterprise architectures. Complexity control and evolution support in software design},
+  author={Ermakov, Ilya E},
+  journal={Object Systems--2011},
+  pages={30},
+  year={2011}
+}
+
+@article{linonlinear,
+  title={Nonlinear and Quantitative Software Engineering Method Based on Complexity Science},
+  author={Li, Jay Xiong Lin}
+}
+
+@phdthesis{dittmer2012influence,
+  title={The Influence of the" response to Intervention"(RTI) Program, SuccessMaker on Pre and Post Student Reading Comprehension Scores in 6th Grade},
+  author={Dittmer, Rachelle},
+  year={2012},
+  school={Northwest Missouri State University}
+}
+
+@article{meananeatra2018refactoring,
+  title={Refactoring opportunity identification methodology for removing long method smells and improving code analyzability},
+  author={Meananeatra, Panita and Rongviriyapanish, Songsakdi and Apiwattanapong, Taweesup},
+  journal={IEICE Transactions on Information and Systems},
+  volume={101},
+  number={7},
+  pages={1766--1779},
+  year={2018},
+  publisher={The Institute of Electronics, Information and Communication Engineers}
+}
+
+@article{la2011simple,
+  title={A simple plugin for static security checks and program comprehension in Eclipse},
+  author={La Scola, Andrea and Ferretti, Claudio},
+  journal={ECLIPSE IT 2011},
+  pages={319},
+  year={2011},
+  publisher={Citeseer}
+}
+
+@inproceedings{liu2012design,
+  title={The Design and Realization of Software Complexity Metric Method Based on the Abstract Syntax Tree},
+  author={Liu, Jingzhong and Chen, Xiaoji and Qiao, Liping},
+  booktitle={Proceedings of the 2012 International Conference on Electronics, Communications and Control},
+  pages={738--741},
+  year={2012},
+  organization={IEEE Computer Society}
+}
+
+@article{olabiyisiperformance,
+  title={Performance Evaluation of Procedural Cognitive Complexity Metric and Other Code Based Complexity Metrics},
+  author={Olabiyisi Stephen, O and Omidiora Elijah, O and Isola Esther, O}
+}
+
+@article{jayanthiinternational,
+  title={INTERNATIONAL JOURNAL OF ENGINEERING SCIENCES \& RESEARCH TECHNOLOGY Brief Study on Software Quality Metrics and Software Complexity Metrics in Web Application},
+  author={Jayanthi, B and KrishnaKumari, K}
+}

@@ -1,0 +1,179 @@
+@inproceedings{jakupovic2010measuring,
+  title={Measuring the complexity of the business sector and business software},
+  author={Jakupovic, Alen and Pavlic, Mile and Poscic, Patrizia},
+  booktitle={International Conference on Enterprise Information Systems and Web Technologies (EISWT-10)-12th-14th July, Orlando, USA},
+  year={2010}
+}
+
+@book{ghizan2012effect,
+  title={The effect of instructional reading software on developing English reading speed and comprehension for IT university students},
+  author={Ghizan, Sumar},
+  year={2012},
+  publisher={Xlibris Corporation}
+}
+
+@article{mcintosh2015depth,
+  title={The depth and complexity program evaluation tool: a new method for conducting internal evaluations of gifted education programs},
+  author={McIntosh, Jason Scott},
+  year={2015}
+}
+
+@inproceedings{ojala2017software,
+  title={Software Complexity and Organization of Firms’ Offshoring Activities},
+  author={Ojala, Arto and Paavilainen-M{\"a}ntym{\"a}ki, Eriikka and Su, Ning and Lyytinen, Kalle},
+  booktitle={Scandinavian Conference on Information Systems},
+  pages={15--27},
+  year={2017},
+  organization={Springer}
+}
+
+@article{batool2015impact,
+  title={Impact and Comparison of Programming Constructs on JAVA and C\# Source Code Readability},
+  author={Batool, Aisha and ur Rehman, Muhammad Habib and Khan, Aihab and Azeem, Amsa},
+  journal={International Journal of Software Engineering and Its Applications},
+  volume={9},
+  number={11},
+  pages={79--90},
+  year={2015}
+}
+
+@inproceedings{tsui2011analysis,
+  title={Analysis of software cohesion attribute and test case development complexity},
+  author={Tsui, Frank and Iriele, Stanley},
+  booktitle={Proceedings of the 49th Annual Southeast Regional Conference},
+  pages={237--242},
+  year={2011},
+  organization={ACM}
+}
+
+@inproceedings{abi2014eclipse,
+  title={The eclipse runtime perspective for object-oriented code exploration and program comprehension},
+  author={Abi-Antoun, Marwan and Giang, Andrew and Chandrashekar, Sumukhi and Khalaj, Ebrahim},
+  booktitle={Proceedings of the 2014 Workshop on Eclipse Technology eXchange},
+  pages={3--8},
+  year={2014},
+  organization={ACM}
+}
+
+@article{zhang2011evolution,
+  title={Evolution of software product family component and its complexity evaluation [J]},
+  author={Zhang, Yuan-Ming and Xiao, Gang and Xu, Gong-Xu and Lu, Jia-Wei},
+  journal={Journal of Computer Applications},
+  volume={3},
+  year={2011}
+}
+
+@article{dapeng2010set,
+  title={A Set of Class and System-Level Complexity Metrics for Object-Oriented Software},
+  author={Dapeng, Li and Ping, Guo and Xinyu, Chen},
+  journal={Journal of Computer Research and Development},
+  pages={S1},
+  year={2010}
+}
+
+@article{jiang2015research,
+  title={Research and Measurement of Software Complexity Based on Wuli, Shili, Renli (WSR) and Information Entropy},
+  author={Jiang, Rong},
+  journal={Entropy},
+  volume={17},
+  number={4},
+  pages={2094--2116},
+  year={2015},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@inproceedings{soh2011context,
+  title={Context and vision: Studying two factors impacting program comprehension},
+  author={Soh, Z{\'e}phyrin},
+  booktitle={2011 IEEE 19th International Conference on Program Comprehension},
+  pages={258--261},
+  year={2011},
+  organization={IEEE}
+}
+
+@incollection{szoboszlai2010mttool,
+  title={MTTool Software Tool and Low Complexity Hardware for Mojette Transformation},
+  author={Szoboszlai, P{\'e}ter and V{\'a}s{\'a}rhelyi, J{\'o}zsef and Tur{\'a}n, Jan and Serf{\"o}z{\H{o}}, P{\'e}ter},
+  booktitle={Computational Intelligence in Engineering},
+  pages={15--26},
+  year={2010},
+  publisher={Springer}
+}
+
+@inproceedings{moon2016code,
+  title={Code Complexity on Before and After Applying Design Pattern through SW Visualization},
+  author={Moon, So Young and Park, Bo Kyung and Kim, R Young Chul},
+  booktitle={2016 International Conference on Platform Technology and Service (PlatCon)},
+  pages={1--5},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{scalise2010model,
+  title={Model-driven reverse engineering and program comprehension: An example},
+  author={Scalise P, Eugenio G and Favre, Jean-Marie and Zambrano, Nancy},
+  journal={Ingeniare. Revista chilena de ingenier{\'\i}a},
+  volume={18},
+  number={1},
+  year={2010},
+  publisher={Universidad de Tarapac{\'a}}
+}
+
+@article{wilson2012using,
+  title={Using concept maps to assist program comprehension and concept location: an empirical study},
+  author={Wilson, Leon A and Petrenko, Maksym and Rajlich, V{\'a}clav},
+  journal={Journal of Information \& Knowledge Management},
+  volume={11},
+  number={03},
+  pages={1250018},
+  year={2012},
+  publisher={World Scientific}
+}
+
+@article{vans2010error,
+  title={Error-Correcting Code (ECC) and Module Size Considerations in 2D Aztec Barcode Readability},
+  author={Vans, Marie and Adams, Guy and Simske, Steven},
+  journal={Journal of Imaging Science and Technology},
+  volume={54},
+  number={6},
+  pages={60405--1},
+  year={2010},
+  publisher={Society for Imaging Science and Technology}
+}
+
+@article{peng2015complexity,
+  title={Complexity analysis and algorithms for the Program Download Problem},
+  author={Peng, Chao and Zhou, Jie and Zhu, Binhai and Zhu, Hong},
+  journal={Journal of Combinatorial Optimization},
+  volume={29},
+  number={1},
+  pages={216--227},
+  year={2015},
+  publisher={Springer}
+}
+
+@article{marual2014level,
+  title={Level of word recognition and reading comprehension: A basis for a reading program},
+  author={Marual-Gillaco, MINARIZA},
+  journal={Asia Pacific Journal of Education, Arts, and Sciences},
+  volume={1},
+  number={5},
+  pages={69--75},
+  year={2014}
+}
+
+@inproceedings{reniers2010visual,
+  title={A Visual Analytics Toolset for Program Structure, Metrics, and Evolution Comprehension},
+  author={Reniers, Dennie and Voinea, Lucian and Ersoy, Ozan and Telea, Alexandru},
+  booktitle={Proceedings of the 3rd Intl. Workshop on Academic Software Development Tools and Techniques (WASDeTT-3)},
+  year={2010}
+}
+
+@inproceedings{yeh2017detecting,
+  title={Detecting and comparing brain activity in short program comprehension using EEG},
+  author={Yeh, Martin K-C and Gopstein, Dan and Yan, Yu and Zhuang, Yanyan},
+  booktitle={2017 IEEE Frontiers in Education Conference (FIE)},
+  pages={1--5},
+  year={2017},
+  organization={IEEE}
+}

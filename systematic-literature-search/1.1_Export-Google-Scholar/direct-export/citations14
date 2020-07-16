@@ -1,0 +1,166 @@
+@book{abbondanza2013assessing,
+  title={Assessing the Effectiveness of Peer-Assisted Learning Strategies (PALS) Reading Program on Sixth-Grade Students Comprehension, Fluency, and Attitude toward Reading, with Nonfiction Texts.},
+  author={Abbondanza, Mark A},
+  year={2013},
+  publisher={ERIC}
+}
+
+@techreport{blickstein2012root,
+  title={Root Cause Analyses of Nunn-McCurdy Breaches. Volume 2: Excalibur Artillery Projectile and the Navy Enterprise Resource Planning Program, with an Approach to Analyzing Program Complexity and Risk},
+  author={Blickstein, Irv and Drezner, Jeffrey A and Libicki, Martin C and McInnis, Brian and McKernan, Megan and Nemfakos, Charles and Sollinger, Jerry M and Wong, Carolyn},
+  year={2012},
+  institution={RAND NATIONAL DEFENSE RESEARCH INST SANTA MONICA CA}
+}
+
+@article{lakhtikova2017code,
+  title={Code-Switching in Anzald{\'u}a's Borderlands/La Frontera and Walcott’s Omeros: A Literary Device for “New Readability”},
+  author={Lakhtikova, Anastasia},
+  journal={Poroi},
+  volume={13},
+  number={1},
+  pages={5},
+  year={2017},
+  publisher={Project on Rhetoric of Inquiry, The University of Iowa}
+}
+
+@article{watanabe2015readability,
+  title={Readability dependence on lithography conditions for printing code marks using a squared optical fiber matrix and light-emitting diodes},
+  author={Watanabe, Jun and Kato, Kazuhide and Iwasaki, Jun-ya and Horiuchi, Toshiyuki},
+  journal={Japanese Journal of Applied Physics},
+  volume={54},
+  number={6S1},
+  pages={06FP11},
+  year={2015},
+  publisher={IOP Publishing}
+}
+
+@article{alrwele2015efficacy,
+  title={Efficacy of A training Program in Some Self-Managed Strategies on Developing English Language Reading Comprehension and Reader's Self-Perception of 11th Grade Female Students},
+  author={Alrwele, Noura Shabak},
+  journal={Procedia-Social and Behavioral Sciences},
+  volume={177},
+  pages={71--76},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@book{chamblee2014impact,
+  title={The impact of a summer library program on the readingattitude and reading comprehension skills of a diverse groupof beginning third graders},
+  author={Chamblee, Nikki A},
+  year={2014},
+  publisher={St. John's University (New York), School of Education and Human Services}
+}
+
+@article{mckenzie2010addressing,
+  title={Addressing the impact of road scheme complexity on the driver: Development of a software tool to analyse driver workload arising from its road features and other infrastructure},
+  author={Mckenzie-Kerr, A and Turner, C and Peron, A and Wadsworth, P and Lansdown, C},
+  year={2010},
+  publisher={IET}
+}
+
+@article{colazo2016cognitive,
+  title={A cognitive load view and empirical test of collaboration network structure versus learning rates in new software development},
+  author={Colazo, Jorge},
+  journal={International Journal of Innovation Management},
+  volume={20},
+  number={01},
+  pages={1650014},
+  year={2016},
+  publisher={World Scientific}
+}
+
+@book{brown2012determinants,
+  title={Determinants of user adoption of policy and procedure software: An examination of relationships between task-specific computer self-efficacy, perceived relevance, perceived complexity and predictions of intent to use information technology},
+  author={Brown, Lori Jill},
+  year={2012},
+  publisher={Central Michigan University}
+}
+
+@article{hassanein2016effect,
+  title={The Effect of a Suggested Program Based on Interactional Metadiscourse Markers on Developing EFL Majors’ Reading Comprehension and the Reader-friendliness of Their Writing},
+  author={Hassanein, Osama Hassanein Sayed},
+  journal={Journal of Language Teaching and Research},
+  volume={7},
+  number={2},
+  pages={273--283},
+  year={2016}
+}
+
+@article{buratti2014procedural,
+  title={Procedural design and ordered complexity. Code, pattern and digital fabbrication},
+  author={Buratti, Giorgio},
+  year={2014},
+  publisher={Italy}
+}
+
+@inproceedings{ganpati2011relationship,
+  title={Relationship between Line of Code and Complexity in Open Source Software},
+  author={Ganpati, Anita and Sharma, Aman Kumar and Kalia, Arvind and Singh, Hardeep},
+  booktitle={International Conference on Advanced Computer Theory and Engineering, 4th (ICACTE 2011)},
+  year={2011},
+  organization={ASME Press}
+}
+
+@article{wei212010analysing,
+  title={ANALYSING OPEN SOFTWARE Linux AND FreeBSD KERNELS BASED ON COMPLEXITY},
+  author={Wei21, Xu Minhong1 Zheng},
+  journal={Computer Applications and Software},
+  number={8},
+  pages={50},
+  year={2010}
+}
+
+@article{hansen2013quantifying,
+  title={Quantifying Program Complexity and Comprehension},
+  author={Hansen, Michael and Lumsdaine, Andrew and Goldstone, Rob and Hill, Raquel and Yu, Chen},
+  year={2013}
+}
+
+@phdthesis{tanarattanakorn2011correlation,
+  title={Correlation between code smell and understandability},
+  author={Tanarattanakorn, Benjawan},
+  year={2011},
+  school={Asian Institute of Technology}
+}
+
+@article{devenporteffects,
+  title={Effects of Variable Naming on Computer Program Reading and Comprehension},
+  author={Devenport, Mitchell M}
+}
+
+@article{schweitzer2017cognitive,
+  title={Cognitive-Based Design Principles in Experimental Economics: How to Devise More Effective Instructions, Software, and Comprehension Tests},
+  author={Schweitzer, Sascha},
+  year={2017}
+}
+
+@inproceedings{kaptan2011improving,
+  title={Improving Code Reading and Comprehension on Large Displays},
+  author={Kaptan, Selvihan Nazl{\i} and G{\"o}kt{\"u}rk, Mehmet},
+  booktitle={International Conference of Design, User Experience, and Usability},
+  pages={128--134},
+  year={2011},
+  organization={Springer}
+}
+
+@article{galster2017variability,
+  title={Variability and Complexity in Software Design--Towards Quality through Modeling and Testing},
+  author={Galster, Matthias and Weyns, Danny and Goedicke, Michael and Zdun, Uwe and Cunha, J{\'a}come and Chavarriaga, Jaime},
+  journal={ACM SIGSOFT Software Engineering Notes},
+  volume={42},
+  number={4},
+  pages={1--3},
+  year={2017},
+  publisher={Association for Computing Machinery}
+}
+
+@article{mishra2010study,
+  title={A study on size and complexity metrics for software development environment},
+  author={Mishra, Samaresh and Hazra, Kabita and Pattnaik, Prasant Kumar},
+  journal={Siddhant-A Journal of Decision Making},
+  volume={10},
+  number={1},
+  pages={141--148},
+  year={2010},
+  publisher={Regional College Of Management, Bhubaneswar}
+}
