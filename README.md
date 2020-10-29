@@ -12,6 +12,8 @@ The `data-analysis` folder contains all files that relate to the data analysis p
 - The [data-analysis.R](data-analysis/data-analysis.R) script contains the code written in R that was used to calculate the correlations, to test for the normality of the data and to generate the forest plots for our meta-analysis.
 - The [dataset-descriptions.md](data-analysis/dataset-descriptions.md) document provides summaries of each of the studies and their corresponding datasets.
 
+Please note that we could not publish the code snippets in this repo due to missing licenses. If you need the code snippets for your work and do not want to extract them yourself from the supplemental materials of the listed studies, you are welcome to contact us.
+
 ## Systematic Literature Search
 The `systematic-literature-search` folder contains all files that relate to the systematic literature search part of our work.
 - The [literature-search-overview.md](systematic-literature-search/literature-search-overview.md) document provides detailed instructions for each step and technical information about the tools that were used.
